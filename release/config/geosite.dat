@@ -835,6 +835,8 @@ u
 
 ATTWATCHTV
 att.tvatttvnow.comattwatchtv.comdirectv.com	dtvce.comnettyinternet.com
+
+AUTHY	authy.com
 
 AUTODESKautodesk.com
 r
@@ -1529,7 +1531,7 @@ ubuntu.netubuntuforums.orgcanonical.com
 $
 CAS
 csdl.ac.cn	las.ac.cn
-¯ñ
+ìó
 CATEGORY-ADS apilog-web.acfun.cn
 adsadcolony.com
 ads
@@ -2056,13 +2058,14 @@ w.cnzz.com
 adsad.intl.xiaomi.com
 ads	ad.mi.com
 adsad.xiaomi.com
-adsadmob.xiaomi.com
 adsad1.xiaomi.com
-adsmistat.xiaomi.com
-adstracking.miui.com
-adsadv.sec.miui.com
+adsadmob.xiaomi.com
 ads"adv.sec.intl.miui.com
+adsadv.sec.miui.com
 ads"misc.in.duokanbox.com
+adsmistat.xiaomi.com
+adstjqonline.cn
+adstracking.miui.com
 adsad.hpplay.cn
 adsadeng.hpplay.cn
 ads	kuyun.com
@@ -2125,7 +2128,7 @@ ad-srv.netad.api.moji.comad.wang502.comadbutter.netads.t
 exosrv.com
 go2.globalimg-bss.csdn.netimglnkc.comimglnkd.comja2.gamersky.comjl3.yjaxa.topjuicyads.comkepler-37b.com
 lqc006.comrealsrv.coms4yxaqyq95.comshhs-ydd8x2.yjrmss.cnstatic.javhd.comtm-banners.gamingadult.comtrafficfactory.biztsyndicate.comadx.36kr.comclick.ali213.netpbmp.ali213.net^pinggai\d\.caixin\.com$adq.chinaso.comstat.chinaso.comtoboads.comdn-growing.qbox.mead.unimhk.comdas-rpt-log.ucloud.cn
-ºõ
+◊õ
 CATEGORY-ADS-ALL7box.vip
 adsad-delivery.net
 adsadinplay.com
@@ -2675,13 +2678,14 @@ w.cnzz.com
 adsad.intl.xiaomi.com
 ads	ad.mi.com
 adsad.xiaomi.com
-adsadmob.xiaomi.com
 adsad1.xiaomi.com
-adsmistat.xiaomi.com
-adstracking.miui.com
-adsadv.sec.miui.com
+adsadmob.xiaomi.com
 ads"adv.sec.intl.miui.com
+adsadv.sec.miui.com
 ads"misc.in.duokanbox.com
+adsmistat.xiaomi.com
+adstjqonline.cn
+adstracking.miui.com
 adsad.hpplay.cn
 adsadeng.hpplay.cn
 ads	kuyun.com
@@ -3828,7 +3832,7 @@ shopee.comshopee.com.brshopee.com.my	shopee.ph	shopee.sg
 target.comtargetimg1.comwalmartwal-mart.com
 wal.cowalmart-content.comwalmart.comwalmart.pharmacywalmartimages.com
 wmt.cowish.comreadmoo.com
-Å¶
+©¶
 CATEGORY-ENTERTAINMENTabema.ioabema.tv	adx.promoameba.jpamebame.comamebaownd.comamebaowndme.com	ameblo.jpbucketeer.jpdokusho-ojikan.jphayabusa.devhayabusa.iohayabusa.mediawinticket.jpabematv.akamaized.net#ds-linear-abematv.akamaized.net ds-vod-abematv.akamaized.net linear-abematv.akamaized.netvod-abematv.akamaized.netao3.orgarchiveofourown.orgarchiveofourown.comarchiveofourown.net
 att.tvatttvnow.comattwatchtv.comdirectv.com	dtvce.comnettyinternet.comgamer.com.twbahamut.com.twgamer-cds.cdn.hinet.netgamer2-cds.cdn.hinet.netbandcamp.com
 bcbits.comblizzard.cn
@@ -3870,7 +3874,7 @@ garena.comgarena.live	garena.my	garena.ph	garena.sg	ga
 cn'productcard.gog-statics.com
 cn(static-login.gog-statics.com
 cn'www4-static.gog-statics.com
-cn, ^images(-\d)?\.gog-statics\.com$
+cn&"^cdn-akamai-.+\.gog-services\.com$, ^images(-\d)?\.gog-statics\.com$
 cn100classicbooks.com
 amiibo.comayudanintendo.combowsersinsidestory.comexcitebots.comflipnotestudio.comgloryofheracles.comhackyourconsole.comkirbysuperstarultra.comkirbysepicyarn.comlegendofzelda.cn
 cn legendofzelda.com.cn
@@ -3972,7 +3976,7 @@ pixplug.in
 reddit.comredditstatic.comredditmail.comredditmedia.comredd.it	18p2p.comavsforum.comdisp.cc	doom9.orgeyny.comgab.commewe.com
 parler.compincong.rockssafechat.com
 sis001.comv2ex.com
-Ó_
+ñ`
 CATEGORY-GAMESblizzard.cn
 cnblizzard.comblizzardgames.cn
 cnblizzardgearstore.comblz-contentstack.comblzstatic.cn
@@ -4012,7 +4016,7 @@ garena.comgarena.live	garena.my	garena.ph	garena.sg	ga
 cn'productcard.gog-statics.com
 cn(static-login.gog-statics.com
 cn'www4-static.gog-statics.com
-cn, ^images(-\d)?\.gog-statics\.com$
+cn&"^cdn-akamai-.+\.gog-services\.com$, ^images(-\d)?\.gog-statics\.com$
 cn100classicbooks.com
 amiibo.comayudanintendo.combowsersinsidestory.comexcitebots.comflipnotestudio.comgloryofheracles.comhackyourconsole.comkirbysuperstarultra.comkirbysepicyarn.comlegendofzelda.cn
 cn legendofzelda.com.cn
@@ -5847,7 +5851,7 @@ gcores.com
 GEETESTgeetest.com#geetest.datasink.sensorsdata.cn
 `
 GEMFURY	fury.blogfury.cofury.dev	fury.helpfury.iogemfury.com
-ãÿ
+¬ÿ
 GEOLOCATION-!CNgovmileduacadaeafagalamanaoaqaratauawaxazbabgbhbibjbmbnbobrbsbvbwbybzcacdcgclcmcrcucwcxcyczdedkdzecegehereseufifjfkfofrgagbgdgeghgiglgmgngrgsgtgugwgyhkhnhthuieiliniqirjejmjojpkekhkiknkpkrkwkykzlblclilklrlsltlulymamcmdmfmgmhmkmnmompmqmrmtmumwmxmymznancnenfngninlnonpnrnunzompapepfpgphplpnrerorurwsascsdsesgsisjskslsnsrssstsusvsxsysztctdtfthtjtktltmtntotptrtttwtzuaugukumusuyuzvavcvevgvivnvuwfytzazmzwaflmlbnbanflnra	averybbbbcgcebcrsdnbdnpdunsdvagerniglobalxice	locusmckinseyolayangroup
 olayan	praxisapseek
 vistaprint	vistawtc	xeroxathletabananarepublic	bloomberg	bootscalvinkleincartier	chloegap	gucci
@@ -6435,7 +6439,7 @@ garena.comgarena.live	garena.my	garena.ph	garena.sg	ga
 cn'productcard.gog-statics.com
 cn(static-login.gog-statics.com
 cn'www4-static.gog-statics.com
-cn, ^images(-\d)?\.gog-statics\.com$
+cn&"^cdn-akamai-.+\.gog-services\.com$, ^images(-\d)?\.gog-statics\.com$
 cn100classicbooks.com
 amiibo.comayudanintendo.combowsersinsidestory.comexcitebots.comflipnotestudio.comgloryofheracles.comhackyourconsole.comkirbysuperstarultra.comkirbysepicyarn.comlegendofzelda.cn
 cn legendofzelda.com.cn
@@ -6715,7 +6719,7 @@ sub147.com	swag.livet66y.comtbr.tangbr.nettheav.cct
 thisav.comthtmod1.com
 tkb008.xyztokyomotion.nettorrentkitty.tv	tssp.best	tube8.comtubetubetube.comupjav.ccvaginacontest.comvgg8.comvjav.comwatchjavonline.comwuso.me	wzmyg.com	x-art.comx18r.com	x99av.com	xo104.com	xtube.com	youav.comyouporn.comaccuweather.comgetadblock.comadblockplus.orgaddthis.comaddthiscdn.comaddthisedge.comaddtoany.comadguard-vpn.comadguard.comapkmirror.comapkpure.comcdnpure.compureapk.com
 winudf.comaptoide.com
-arphic.comarphic.com.cnarphic.com.twifontcloud.com
+arphic.comarphic.com.cnarphic.com.twifontcloud.com	authy.com
 bit.ly	bitly.combitly.isbitwarden.combigbuckbunny.orgblender.orgelephantsdream.orgbcove.videobcovlive.iobcvp0rtal.comboltdns.netbrightcove.combrightcove.netbrightcove.servicesbrightcovecdn.comvideojs.com
 zencdn.netzencoder.combcovlive-a.akamaihd.netbcsecure01-a.akamaihd.netbrightcove.imgix.netbuymeacoff.eebuymeacoffee.comchatango.comcloudconvert.comcontentful.comctfassets.netcutt.lydigitalocean.comdigitaloceanspaces.com
 disqus.comdisquscdn.comdisqusservice.comcispaletter.comcispaletter.orgcometotheduckside.com
@@ -8622,14 +8626,14 @@ GLOBALSIGNglobalsign-media.comglobalsign.beglobalsign.ch
 GODADDYgodaddy.comx.cogodaddy
 
 GOFUNDMEgofundme.com
-º
+‰
 GOGgog.comgog-statics.comgog.qtlglb.com
 cn$gogalaxy.gog-statics.com
 cn'menu-static.gog-statics.com
 cn'productcard.gog-statics.com
 cn(static-login.gog-statics.com
 cn'www4-static.gog-statics.com
-cn, ^images(-\d)?\.gog-statics\.com$
+cn&"^cdn-akamai-.+\.gog-services\.com$, ^images(-\d)?\.gog-statics\.com$
 cn
 U
 	GOGOANIMEgogocdn.netgogoanime.vcgogoanime.wikigogo-load.com
@@ -9974,6 +9978,9 @@ pagecdn.io
 k
 	PANASONIC	panasonicpanasonic.cn
 cnpanasonic.companasonic.jptechnics.com
+0
+PANDANET
+joyjoy.netpandanet-igs.com
 ,
 PAOFUYUNpaofu.cloudpaofuyun.me
 
@@ -11433,17 +11440,18 @@ mi-img.com	mifile.cnmiui.com
 miwifi.com	xiaomi.cn
 xiaomi.com
 xiaomi.netxiaomiyoupin.com
-Ø
+ 
 XIAOMITV-ADSad.intl.xiaomi.com
 ads	ad.mi.com
 adsad.xiaomi.com
-adsadmob.xiaomi.com
 adsad1.xiaomi.com
-adsmistat.xiaomi.com
-adstracking.miui.com
-adsadv.sec.miui.com
+adsadmob.xiaomi.com
 ads"adv.sec.intl.miui.com
+adsadv.sec.miui.com
 ads"misc.in.duokanbox.com
+adsmistat.xiaomi.com
+adstjqonline.cn
+adstracking.miui.com
 adsad.hpplay.cn
 adsadeng.hpplay.cn
 ads	kuyun.com
