@@ -567,7 +567,7 @@ apnews.com
 L
 APKPUREapkpure.comcdnpure.compureapk.com
 winudf.com
-¦È
+îÊ
 APPLEiadsdk.apple.com
 adsiad.apple.com
 ads	qwapi.com
@@ -741,12 +741,10 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn#search.itunes.apple.com
 cn1%sf-api-token-service.itunes.apple.com
 cnsp.itunes.apple.com
-cn&stocks-sparkline.apple.com
 cn+streamingaudio.itunes.apple.com
 cnsu.itunes.apple.com
 cn!sync.itunes.apple.com
 cn upp.itunes.apple.com
-cn"weather-data.apple.com
 cn#^a[1-5]\.mzstatic\.com$
 cn0$^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
 cn9-^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
@@ -760,10 +758,11 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cna5.mzstatic.com
 cn, adcdownload.apple.com.akadns.net
 cn!adcdownload.apple.com
+cn."app-site-association.cdn-apple.com
 cnappldnld.apple.com
 cn"appldnld.g.aaplimg.com
+cn!appleid.cdn-apple.com
 cnapps.mzstatic.com
-cn#api-cn.apple-mapkit.com
 cn$cdn-cn1.apple-mapkit.com
 cn$cdn-cn2.apple-mapkit.com
 cn$cdn-cn3.apple-mapkit.com
@@ -776,10 +775,10 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn!cds-cdn.v.aaplimg.com
 cn$cds.apple.com.akadns.net
 cncds.apple.com
+cncdsassets.apple.com
 cn/#cl1-cdn.origin-apple.com.akadns.net
 cncl1.apple.com
 cncl2-cn.apple.com
-cn<0cl2.apple.com.edgekey.net.globalredir.akadns.net
 cncl2.apple.com
 cn/#cl3-cdn.origin-apple.com.akadns.net
 cncl3.apple.com
@@ -793,13 +792,12 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn."configuration.apple.com.akadns.net
 cn#configuration.apple.com
 cncstat.apple.com
+cncstat.cdn-apple.com
 cn."dd-cdn.origin-apple.com.akadns.net
 cn(download.developer.apple.com
 cngs-loc-cn.apple.com
 cngs-loc.apple.com
 cn%gsp10-ssl-cn.ls.apple.com
-cn!gsp11-cn.ls.apple.com
-cn!gsp12-cn.ls.apple.com
 cn!gsp13-cn.ls.apple.com
 cnC7gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 cn, gsp4-cn.ls.apple.com.edgekey.net
@@ -812,6 +810,8 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn#gspe21-ssl.ls.apple.com
 cngspe21.ls.apple.com
 cn#gspe35-ssl.ls.apple.com
+cn+guzzoni-apple-com.v.aaplimg.com
+cnguzzoni.apple.com
 cniadsdk.apple.com
 cn, icloud-cdn.icloud.com.akadns.net
 cn icloud.cdn-apple.com
@@ -825,6 +825,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn3'init-s01st-lb.push-apple.com.akadns.net
 cn%init-s01st.push.apple.com
 cn(iosapps.itunes.g.aaplimg.com
+cnipcdn.apple.com
 cniphone-ld.apple.com
 cn is1-ssl.mzstatic.com
 cnis1.mzstatic.com
@@ -843,15 +844,20 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn+mesu-china.apple.com.akadns.net
 cnmesu.apple.com
 cnmusic.apple.com
+cn(ocsp-lb.apple.com.akadns.net
+cnocsp.apple.com
+cnocsp2.apple.com
 cnoscdn.apple.com
 cn-!oscdn.origin-apple.com.akadns.net
 cnpancake.apple.com
 cn, pancake.cdn-apple.com.akadns.net
-cnphobos.apple.com
 cn1%prod-support.apple-support.akadns.net
+cn&publicassets.cdn-apple.com
 cn#reserve-prime.apple.com
 cns.mzstatic.com
+cn(smp-device-content.apple.com
 cn4(stocks-sparkline-lb.apple.com.akadns.net
+cn&stocks-sparkline.apple.com
 cn>2store.apple.com.edgekey.net.globalredir.akadns.net
 cn'store.apple.com.edgekey.net
 cnstore.apple.com
@@ -859,6 +865,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn+store.storeimages.cdn-apple.com
 cn2&support-china.apple-support.akadns.net
 cnsupport.apple.com
+cnswallow.apple.com
 cn."swcatalog-cdn.apple.com.akadns.net
 cnswcatalog.apple.com
 cnswcdn.apple.com
@@ -869,11 +876,14 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cnswscan.apple.com
 cn1%updates-http.cdn-apple.com.akadns.net
 cn&updates-http.cdn-apple.com
+cn!updates.cdn-apple.com
 cnvalid.apple.com
 cn-!valid.origin-apple.com.akadns.net
+cn"weather-data.apple.com
 cn<0www.apple.com.edgekey.net.globalredir.akadns.net
 cn%www.apple.com.edgekey.net
 cnwww.apple.com
+cnxp.apple.com
 cn
 ^
 	APPLE-ADSiadsdk.apple.com
@@ -1463,12 +1473,13 @@ gsccdn.com	gslink.usonlinegeeksquad.comrocketfishproducts.com
 beth.gamesbethesda.netbethesdagamestudios.combethsoft.comdoom.comelderscrolls.com
 *
 BETTEREXPLAINEDbetterexplained.com
-ƒ
+õ
 BILIBILI
-acg.tvacgvideo.com
-b23.tvbiliapi.combiliapi.netbilibili.combilibiligame.netbilicdn1.combilicdn2.combilicdn3.combilicdn4.combilicdn5.combiligame.combiligame.netbilivideo.combilivideo.cn	hdslb.comim9.com
-mincdn.com
-biligo.com$ upos-hz-mirrorakam.akamaized.net
+acg.tvacgvideo.comanimetamashi.cnanimetamashi.com
+anitama.cnanitama.net
+b23.tv	bigfun.cn	bili22.cnbili2233.cn	bili23.cn	bili33.cnbiliapi.combiliapi.netbilibili.ccbilibili.combilibili.netbilibili.tvbilibiligame.cnbilibiligame.cobilibiligame.netbilibilipay.cnbilibilipay.combilicdn1.combilicdn2.combilicdn3.combilicdn4.combilicdn5.combiligame.cobiligame.combiligame.net
+biligo.combilivideo.cnbilivideo.combilivideo.net	hdslb.com	hdslb.orgim9.commaoercdn.com
+mincdn.comyo9.com$ upos-hz-mirrorakam.akamaized.net
 e
 	BILIBILI2bili2.ccbili888.combili999.com($(^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$
 
@@ -3056,7 +3067,7 @@ hxb.com.cnnjcb.com.cnpsbc.comspdb.com.cn	whccb.com
 CATEGORY-BROWSER-!CNfirefox.comfirefoxusercontent.com
 chrome
 chrome.comchromium.org	brave.combromite.org	opera.comvivaldi.comwaterfox.net
-¦9
+“:
 CATEGORY-CASactalis.com
 actalis.itamazontrust.comawstrust.com
 ss2.us)certs-lb.apple.com.akadns.net
@@ -3069,7 +3080,7 @@ actalis.itamazontrust.comawstrust.com
 buypass.no
 buypass.seminid.nocertinomis.comcertinomis.fr	certum.plocsp-certum.comocsp-responder.com
 comodo.com
-comodo.netcomodoca.comcomodoca2.comcomodoca3.comcomodoca4.comcybertrust.co.jpcybertrust.ne.jpdigicert-cn.comdigicert.cn
+comodo.netcomodoca.comcomodoca2.comcomodoca3.comcomodoca4.comcybertrust.co.jpcybertrust.ne.jpdigicert-cn.comdigicert-validation.comdigicert.cn
 cndigicert.comdigitalcertvalidation.comfreessl.comgeotrust.comrapidssl.com
 thawte.com	thawte.de	thawte.frquovadisglobal.compublic-trust.comentrust.netentrustdatacard.comaffirmtrust.comatos.net
 myatos.netcertificat2.comtrendmicro.com	gandi.netalphassl.comglobalsign-media.comglobalsign.beglobalsign.chglobalsign.co.ukglobalsign.comglobalsign.com.auglobalsign.com.hkglobalsign.com.sgglobalsign.esglobalsign.euglobalsign.frglobalsign.netglobalsign.nlcrl2.alphassl.com
@@ -3077,8 +3088,9 @@ myatos.netcertificat2.comtrendmicro.com	gandi.netalphassl
 cn ocsp2.globalsign.com
 cn!secure.globalsign.com
 cn secure2.alphassl.com
-cngodaddy.comx.cogodaddypki.googcrl.pki.goog
+cngodaddy.comx.cogodaddypki.googclients1.google.compki.google.comcrl.pki.goog
 cnocsp.pki.goog
+cn!pki-goog.l.google.com
 cneca.hinet.netgtlsca.nat.gov.twhongkongpost.gov.hkecert.gov.hkidentrust.comidentrust.co.ukidentrust.net	lencr.orgletsencrypt.comletsencrypt.org
 msocsp.comcrl.microsoft.commscrl.microsoft.comocsp.microsoft.comoneocsp.microsoft.comwww.microsoft.com
 cnsecom.co.jpsecomtrust.netcybertrust.co.jpcybertrust.ne.jpmanagedpki.ne.jpenterprisessl.comhackerguardian.cominstantssl.comoptimumssl.compositivessl.comsectigo.comtrust-provider.cn
@@ -3103,7 +3115,7 @@ wiseid.comwisekey.comwisekey.com.hkaccv.escamerfirma.com
 netlock.hutrustcor.catrustcor.comtrustisfps.com
 6
 CATEGORY-COLLABORATE-CNshimo.im	yuque.com
-æË
+Öí
 CATEGORY-COMPANIESacer-group.comacer.comacer.com.cn
 cn"advertising.adobe.com
 adstubemogul.com
@@ -3354,12 +3366,10 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn#search.itunes.apple.com
 cn1%sf-api-token-service.itunes.apple.com
 cnsp.itunes.apple.com
-cn&stocks-sparkline.apple.com
 cn+streamingaudio.itunes.apple.com
 cnsu.itunes.apple.com
 cn!sync.itunes.apple.com
 cn upp.itunes.apple.com
-cn"weather-data.apple.com
 cn#^a[1-5]\.mzstatic\.com$
 cn0$^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
 cn9-^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
@@ -3373,10 +3383,11 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cna5.mzstatic.com
 cn, adcdownload.apple.com.akadns.net
 cn!adcdownload.apple.com
+cn."app-site-association.cdn-apple.com
 cnappldnld.apple.com
 cn"appldnld.g.aaplimg.com
+cn!appleid.cdn-apple.com
 cnapps.mzstatic.com
-cn#api-cn.apple-mapkit.com
 cn$cdn-cn1.apple-mapkit.com
 cn$cdn-cn2.apple-mapkit.com
 cn$cdn-cn3.apple-mapkit.com
@@ -3389,10 +3400,10 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn!cds-cdn.v.aaplimg.com
 cn$cds.apple.com.akadns.net
 cncds.apple.com
+cncdsassets.apple.com
 cn/#cl1-cdn.origin-apple.com.akadns.net
 cncl1.apple.com
 cncl2-cn.apple.com
-cn<0cl2.apple.com.edgekey.net.globalredir.akadns.net
 cncl2.apple.com
 cn/#cl3-cdn.origin-apple.com.akadns.net
 cncl3.apple.com
@@ -3406,13 +3417,12 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn."configuration.apple.com.akadns.net
 cn#configuration.apple.com
 cncstat.apple.com
+cncstat.cdn-apple.com
 cn."dd-cdn.origin-apple.com.akadns.net
 cn(download.developer.apple.com
 cngs-loc-cn.apple.com
 cngs-loc.apple.com
 cn%gsp10-ssl-cn.ls.apple.com
-cn!gsp11-cn.ls.apple.com
-cn!gsp12-cn.ls.apple.com
 cn!gsp13-cn.ls.apple.com
 cnC7gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 cn, gsp4-cn.ls.apple.com.edgekey.net
@@ -3425,6 +3435,8 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn#gspe21-ssl.ls.apple.com
 cngspe21.ls.apple.com
 cn#gspe35-ssl.ls.apple.com
+cn+guzzoni-apple-com.v.aaplimg.com
+cnguzzoni.apple.com
 cniadsdk.apple.com
 cn, icloud-cdn.icloud.com.akadns.net
 cn icloud.cdn-apple.com
@@ -3438,6 +3450,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn3'init-s01st-lb.push-apple.com.akadns.net
 cn%init-s01st.push.apple.com
 cn(iosapps.itunes.g.aaplimg.com
+cnipcdn.apple.com
 cniphone-ld.apple.com
 cn is1-ssl.mzstatic.com
 cnis1.mzstatic.com
@@ -3456,15 +3469,20 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn+mesu-china.apple.com.akadns.net
 cnmesu.apple.com
 cnmusic.apple.com
+cn(ocsp-lb.apple.com.akadns.net
+cnocsp.apple.com
+cnocsp2.apple.com
 cnoscdn.apple.com
 cn-!oscdn.origin-apple.com.akadns.net
 cnpancake.apple.com
 cn, pancake.cdn-apple.com.akadns.net
-cnphobos.apple.com
 cn1%prod-support.apple-support.akadns.net
+cn&publicassets.cdn-apple.com
 cn#reserve-prime.apple.com
 cns.mzstatic.com
+cn(smp-device-content.apple.com
 cn4(stocks-sparkline-lb.apple.com.akadns.net
+cn&stocks-sparkline.apple.com
 cn>2store.apple.com.edgekey.net.globalredir.akadns.net
 cn'store.apple.com.edgekey.net
 cnstore.apple.com
@@ -3472,6 +3490,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn+store.storeimages.cdn-apple.com
 cn2&support-china.apple-support.akadns.net
 cnsupport.apple.com
+cnswallow.apple.com
 cn."swcatalog-cdn.apple.com.akadns.net
 cnswcatalog.apple.com
 cnswcdn.apple.com
@@ -3482,11 +3501,14 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cnswscan.apple.com
 cn1%updates-http.cdn-apple.com.akadns.net
 cn&updates-http.cdn-apple.com
+cn!updates.cdn-apple.com
 cnvalid.apple.com
 cn-!valid.origin-apple.com.akadns.net
+cn"weather-data.apple.com
 cn<0www.apple.com.edgekey.net.globalredir.akadns.net
 cn%www.apple.com.edgekey.net
 cnwww.apple.com
+cnxp.apple.com
 cnasus.comasus.com.cn
 cnatlassian.combitbucket.iobitbucket.orgstatuspage.io
 trello.comtrellocdn.comaccbusiness.com
@@ -3565,8 +3587,9 @@ golang.org2mdn.net
 ads
 urchin.com
 ads>1^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
-adscharlestonroadregistry.comregistry.googleget.appget.devget.howget.pageiam.soyxn--p8j9a0d9c9a.xn--q9jyb4cscholar.google.aescholar.google.atscholar.google.bescholar.google.bgscholar.google.cascholar.google.catscholar.google.chscholar.google.clscholar.google.cnscholar.google.co.crscholar.google.co.idscholar.google.co.ilscholar.google.co.inscholar.google.co.jpscholar.google.co.krscholar.google.co.nzscholar.google.co.thscholar.google.co.ukscholar.google.co.vescholar.google.co.zascholar.google.comscholar.google.com.arscholar.google.com.auscholar.google.com.boscholar.google.com.brscholar.google.com.coscholar.google.com.cuscholar.google.com.doscholar.google.com.ecscholar.google.com.egscholar.google.com.gtscholar.google.com.hkscholar.google.com.lyscholar.google.com.mxscholar.google.com.myscholar.google.com.nischolar.google.com.pascholar.google.com.pescholar.google.com.phscholar.google.com.pkscholar.google.com.prscholar.google.com.pyscholar.google.com.sgscholar.google.com.svscholar.google.com.trscholar.google.com.twscholar.google.com.uascholar.google.com.uyscholar.google.com.vnscholar.google.czscholar.google.descholar.google.dkscholar.google.esscholar.google.fischolar.google.frscholar.google.grscholar.google.hnscholar.google.hrscholar.google.huscholar.google.isscholar.google.itscholar.google.lischolar.google.ltscholar.google.luscholar.google.lvscholar.google.nlscholar.google.noscholar.google.plscholar.google.ptscholar.google.roscholar.google.ruscholar.google.sescholar.google.sischolar.google.skscholar.l.google.compki.googcrl.pki.goog
+adscharlestonroadregistry.comregistry.googleget.appget.devget.howget.pageiam.soyxn--p8j9a0d9c9a.xn--q9jyb4cscholar.google.aescholar.google.atscholar.google.bescholar.google.bgscholar.google.cascholar.google.catscholar.google.chscholar.google.clscholar.google.cnscholar.google.co.crscholar.google.co.idscholar.google.co.ilscholar.google.co.inscholar.google.co.jpscholar.google.co.krscholar.google.co.nzscholar.google.co.thscholar.google.co.ukscholar.google.co.vescholar.google.co.zascholar.google.comscholar.google.com.arscholar.google.com.auscholar.google.com.boscholar.google.com.brscholar.google.com.coscholar.google.com.cuscholar.google.com.doscholar.google.com.ecscholar.google.com.egscholar.google.com.gtscholar.google.com.hkscholar.google.com.lyscholar.google.com.mxscholar.google.com.myscholar.google.com.nischolar.google.com.pascholar.google.com.pescholar.google.com.phscholar.google.com.pkscholar.google.com.prscholar.google.com.pyscholar.google.com.sgscholar.google.com.svscholar.google.com.trscholar.google.com.twscholar.google.com.uascholar.google.com.uyscholar.google.com.vnscholar.google.czscholar.google.descholar.google.dkscholar.google.esscholar.google.fischolar.google.frscholar.google.grscholar.google.hnscholar.google.hrscholar.google.huscholar.google.isscholar.google.itscholar.google.lischolar.google.ltscholar.google.luscholar.google.lvscholar.google.nlscholar.google.noscholar.google.plscholar.google.ptscholar.google.roscholar.google.ruscholar.google.sescholar.google.sischolar.google.skscholar.l.google.compki.googclients1.google.compki.google.comcrl.pki.goog
 cnocsp.pki.goog
+cn!pki-goog.l.google.com
 cn
 kaggle.com	kaggle.iodeps.dev	deps.infoopensourceinsight.devopensourceinsights.devpolymer-project.orgpolymerproject.org
 v8.devv8project.orgyoutubeggpht.cn
@@ -3685,7 +3708,7 @@ gstatic.cn
 cngstatic.comgstaticcnapps.cn
 cn
 gsuite.com
-gv.comgvt0.comgvt1.comgvt2.comgvt3.comgvt5.comgvt6.comgvt7.comgvt9.comhdrplusdata.orghindiweb.comhowtogetmo.co.ukhtml5rocks.comhwgo.comiamremarkable.orgigoogle.comimpermium.com
+gv.comgvt0.comgvt1.comgvt2.comgvt3.comgvt5.comgvt6.comgvt7.comgvt9.comhaplorrhini.comhdrplusdata.orghindiweb.comhowtogetmo.co.ukhtml5rocks.comhwgo.comiamremarkable.orgigoogle.comimpermium.comitasoftware.com
 j2objc.orgjibemobile.comkeyhole.comkeytransparency.comkeytransparency.fookeytransparency.orglanternal.comlike.commadewithcode.commaterial.iomdialog.commeet.newmfg-inspector.commobileview.pagemoodstocks.comnear.bynest.comnomulus.foo
 oauthz.comon.hereon2.comonefifteen.netonefifteen.orgoneworldmanystories.comopenthread.ioopenweave.ioorbitera.com	page.linkpagespeedmobilizer.compageview.mobipanoramio.compartylikeits1986.orgpaxlicense.org
 picasa.compicasaweb.compicasaweb.netpicasaweb.org
@@ -3701,26 +3724,66 @@ webrtc.orgweltweitwachsen.dewhatbrowser.orgwidevine.comw
 cn265.com
 cn2mdn-cn.net
 cn2mdn.net
+cn!accounts.googlers.com
+cn$accounts.xn--9trs65b.com
+cn&accounts.xn--ggle-55da.com
 cnadmob-cn.com
+cn adservice.google.com
+cnai.ytimg.com
 cn"app-measurement-cn.com
 cnapp-measurement.com
+cnapps5.oingo.com
+cn#avail.googleflights.net
 cn beacons.gcp.gvt2.com
 cnbeacons.gvt2.com
 cnbeacons2.gvt2.com
 cnbeacons3.gvt2.com
+cn"borgmon.adz.google.com
 cnc.admob.com
+cn(c.android.clients.google.com
+cn, cache-management-prod.google.com
+cn!cache.pack.google.com
 cncheckin.gstatic.com
+cn clickserve.cc-dt.com
 cn%clickserve.dartsearch.net
+cn%clickserver.googleads.com
 cn)clientservices.googleapis.com
+cncn.widevine.com
+cn)cnappinstall.googleadapis.com
 cn)connectivitycheck.gstatic.com
+cn$content.googleadapis.com
+cncorp.google.com
+cncorp.googleapis.com
+cn0$crashlyticsreports-pa.googleapis.com
+cncsi.gstatic.com
 cndartsearch-cn.net
+cn$dg-meta.video.google.com
+cn"distribution.qatp1.net
+cn"distribution.qcpp1.net
+cn"distribution.qpdp1.net
+cndl.google.com
+cndl.l.google.com
 cndoubleclick-cn.net
 cndoubleclick.net
+cn$download.mlcc.google.com
+cndownload.qatp1.net
+cndownload.qcpp1.net
+cndownload.qpdp1.net
+cn*download.tensorflow.google.com
+cn+emmapplecodevice.googleapis.com
 cn-!firebase-settings.crashlytics.com
+cn&fontfiles.googleadapis.com
+cn$fontfiles.googleapis.com
+cn"fonts.googleadapis.com
 cn fonts.googleapis.com
 cnfonts.gstatic.com
+cng0.gstatic.com
 cng1.gstatic.com
 cng2.gstatic.com
+cng3.gstatic.com
+cngcpnode.com
+cngonglchuangl.net
+cngongyichuangyi.net
 cn#google-analytics-cn.com
 cn google-analytics.com
 cn#googleadservices-cn.com
@@ -3731,23 +3794,91 @@ webrtc.orgweltweitwachsen.dewhatbrowser.orgwidevine.comw
 cn googleflights-cn.net
 cn!googleoptimize-cn.com
 cngoogleoptimize.com
+cngoogleplex.com
 cn$googlesyndication-cn.com
 cn!googlesyndication.com
 cn#googletagmanager-cn.com
+cn googletagmanager.com
 cn$googletagservices-cn.com
 cn!googletagservices.com
 cn)googletraveladservices-cn.com
+cn&googletraveladservices.com
 cngooglevads-cn.com
+cngoto.google.com
+cngstatic-cn.com
+cn%gstaticadssl.l.google.com
+cngtm.oasisfeng.com
 cngvt1-cn.com
 cngvt2-cn.com
 cn!imasdk.googleapis.com
+cn monitoring.qatp1.net
+cn monitoring.qcpp1.net
+cn monitoring.qpdp1.net
+cn, pagead-googlehosted.l.google.com
+cn0$performanceparameters.googleapis.com
+cnplay.1ucrs.com
+cn'prod-controlbe.floonet.goog
+cn$prod-databe.floonet.goog
+cn$prod.databe.floonet.goog
+cnqagpublic.qatp1.net
+cnqagpublic.qcpp1.net
+cnqagpublic.qpdp1.net
+cnqgadmin.qatp1.net
+cnqgadmin.qcpp1.net
+cnqgadmin.qpdp1.net
+cn!qpx.googleflights.net
+cnqualysapi.qatp1.net
+cnqualysapi.qcpp1.net
+cnqualysapi.qpdp1.net
+cn!qualysguard.qatp1.net
+cn!qualysguard.qcpp1.net
+cn!qualysguard.qpdp1.net
 cnrecaptcha.net
+cnredirector.bdn.dev
+cn(redirector.c.chat.google.com
+cn(redirector.c.docs.google.com
+cn)redirector.c.drive.google.com
+cn(redirector.c.mail.google.com
+cn(redirector.c.pack.google.com
+cn(redirector.c.play.google.com
+cn-!redirector.c.youtubeeducation.com
+cn&redirector.gcpcdn.gvt1.com
 cnredirector.gvt1.com
+cn, redirector.offline-maps.gvt1.com
+cn$redirector.snap.gvt1.com
+cn*redirector.xn--ngstr-lra8j.com
 cn(regioninfo-pa.googleapis.com
 cn'safebrowsing.googleapis.com
+cn"scanservice1.qatp1.net
+cn"scanservice1.qcpp1.net
+cn"scanservice1.qpdp1.net
+cnservice.urchin.com
+cn$settings.xn--9trs65b.com
+cn-!ssl-google-analytics.l.google.com
 cnssl.gstatic.com
+cn*staging-controlbe.floonet.goog
+cn'staging-databe.floonet.goog
+cn0$staging-regioninfo-pa.googleapis.com
+cn'staging.databe.floonet.goog
+cnsupport.1ucrs.com
+cntac.googleapis.com
+cn%test.bugs-qa.chromium.org
+cn&test.gbugs-qa.chromium.org
+cntools.google.com
+cntools.l.google.com
+cnup.corp.goog
+cnup.gcp.googlers.com
+cn"update.crashlytics.com
 cn!update.googleapis.com
+cnwear.googleapis.com
+cn-!www-google-analytics.l.google.com
+cn-!www-googletagmanager.l.google.com
+cn"www.destinationurl.com
+cn www.googleadapis.com
 cnwww.gstatic.com
+cnwww.pxcc.com
+cnxn--9kr7l.com
+cnxn--flw351e.com
 cnhetzner.cloudhetzner.com
 hetzner.deyour-server.deeca.hinet.netgtlsca.nat.gov.tw
 cht.com.twchtf.org.tw	emome.net	hinet.net	xuite.netcsifund.orghkbn.com.hkhkbn.net
@@ -5083,7 +5214,7 @@ comsoc.orgembs.orgemcs.orggrss-ieee.orgieee-aess.org
 change.orgf-droid.orgglobalsecurity.orgiana.orgietf.orgitu.intopte.org	smpte.org
 un.org
 w3.orgwho.intwto.org
-ñÒ
+èÖ
 CATEGORY-PORN
 18comic.cc18comic.company18comic.org18comic.vip
 jmcomic.mejmcomic.mobijmcomic.moejmcomic1.cityjmcomic1.mejmcomic1.mobi54647.global54647.io54647.online	54647.orgavmoo.click	avmoo.com	tellme.pwbili2.ccbili888.combili999.com($(^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$
@@ -5099,7 +5230,7 @@ ehwiki.orgexhentai.orghath.networkhentaiathome.nethentai
 javbus.comjavbus22.com	javcdn.ccjavcc.cc	javcc.com	javdb.comjdbimgs.comjdbstatic.comjavwide.com
 javwide.tvjohren.games
 johren.net
-metart.commetartnetwork.commetcams.comnaiadsystems.com	nsimg.net
+metart.commetartnetwork.commetcams.comnaiadsystems.com	nsimg.netmoxing.mobimoxing.news
 nutaku.com
 nutaku.net	bikaa.xyz	bikac.xyzbikaios.xyz
 picacn.xyzpicacomic.compicacomic.xyzwikawika.xyz
@@ -5146,12 +5277,12 @@ scoretv.tvscoreuniverse.comscorevideos.comsharizelvideos.com
 8muses.com	8muses.io
 8muses.xxx8teenxxx.com8thstreetlatinas.com8xxx.net90seconds.asia91avfuli.com91cy.app
 91fans.org91gay.me91porn.best
-91porn.com91porny.com91qk41rf.com91rb.net91se.fun91sesex.xyz91tv.tw920share.com97dounai.top98916.tv99re.com99thz.cc	99thz.com	9cao9.com9ccms.me
+91porn.com91porny.com91qk41rf.com91se.fun91sesex.xyz91tv.tw920share.com97dounai.top98916.tv99re.com99thz.cc	99thz.com	9cao9.com9ccms.me
 9hentai.ru
 9hentai.to9hentaiz.com
 9xlove.xyz
 9zipai.neta-hentai.tv	aadmv.comaalah.meaavs.xyzabclider.comaboutporno.netabsoluporn.comabsolutewhores.com!acasadasbrasileirinhas.com.bracces-vod.comacgnmanhua.com
-acgww.cyouacjj.netadanaatikhaber.com	adbkm.comadorable-teens.netadorevids.comadult-list.comadult-sex-games.comadult-web-site.netadult.contents.fc2.comadult.toonsearch.netadult3dcomics.comadult3dfantasycomics.comadult3dporno.comadult3dtoons.comadult789.futoka.jp"adultartlinks.supertop-100.comadultartsites.comadultbay.orgadultblogranking.comadultcamslover.comadultdeepfakes.comadultdvdmarketplace.comadultdvdtalk.comadultepic.comadulterfree.comadulters.orgadultfreex.comadultfriendfinder.comadultgames.gamesadultgames.meadultgames18.comadultgamesportal.comadultgamestop.comadultgamingroom.comadultgeek.netadulti01.comadultism.comadultmagazinespdf.com
+acgww.cyouacjj.netadanaatikhaber.com	adbkm.comadorable-teens.netadorevids.comadult-list.comadult-sex-games.comadult-web-site.netadult.contents.fc2.comadult.toonsearch.netadult3dcomics.comadult3dfantasycomics.comadult3dporno.comadult3dtoons.comadult789.futoka.jp"adultartlinks.supertop-100.comadultartsites.comadultbay.orgadultblogranking.comadultcamslover.comadultdeepfakes.comadultdvdmarketplace.comadultdvdtalk.comadultepic.comadulterfree.comadulters.orgadultfreex.comadultfriendfinder.comadultgames.gamesadultgames.meadultgames18.comadultgamesportal.comadultgamestop.comadultgamingroom.comadultgeek.netadulti01.comadultinfojpn.comadultism.comadultmagazinespdf.com
 adulto.vipadultrental.comadultsexgame.bizadultsexgames.bizadulttime.comadulttoontube.comadultvideotop.comadultvirtualworlds.netaebn.comafappyending.comaffect3dstore.comaflamporn.comaflamsex.netaflamsexhd.comafriboyz.comagag.tw	agzy1.com	ah-me.comahegao.onlineahentaitv.comahorsecock.com
 ahtops.comahtranny.com
 ahxxx.clubaibaobei.meaimei133.comairav.cc
@@ -5168,7 +5299,7 @@ archivx.to	area51.toarirangmeari.com
 armovs.comartnudegalleries.comartoferotica.infoarzon.jpashemaletube.comashemaletv.comasiamoviepass.comasian-max.comasianboygay.comasiancamgirllive.comasiancamly.comasiangfvideos.comasiangirlsnextdoor.comasianporn.restasianporn.sexyasianpornjav.comasianpornmovies.comasianpornonly.comasianporntrends.comasianprivatetube.comasianscreens.comasiansex.sexyasiansexdiary.comasiansmaster.comasianthumbs.orgasianxxxjoy.comasknudes.comasmhentai.comasredas.comass4all.comassistirhentai.comassoass.comassylum.com	atube.xxx
 atubex.comauntymaza.comav-baron.comav-channel.com	av-th.netav01.tvav11.org	av1688.ccav234567.com
 av4.usav69.tvav69.usav6k.com
-avbebe.com
+avbebe.com	avcar.vip
 avcens.xyzavcrempie.comavday.tv
 avelip.comaventertainments.comavfox.cc
 avgigi.com	avgle.com
@@ -5184,7 +5315,7 @@ b3boos.com	b3bos.com	b6b33.combabepedia.com	babes.com
 bdsmlr.combdsmpornonly.combdsmsexgame.combdsmstreak.combeastiegals.combeastysexlinks.combeastythumbs.combeautifulandbusty.combeautyescortsamsterdam.combeeg.com	beeg.restbeegfree.com	beejp.net
 befuck.com	bejav.netbekijkporno.nlbelamionline.combellebound.com
 bellesa.cobellotube.combenaughty.funberlincompanions.combest3dhere.combestcamsites.netbesterpornos.combestescortgirls.nlbestfreecams.clubbestfreetube.netbestfreetube.xxxbesthentaitube.combestiality.gurubestialitysextaboo.combestialitytaboo.tvbestialityvideo.usbestjapanesepornsites.combestkinky.combestlistofporn.combestporncomix.combestpornsites.eubestpornsites.guidebestporntube.mebestpremiumpornsite.combesttitstube.combesttube4you.combestxxxsites.combetterhdporn.combeurettesvideo.combexjt5wz.xyz
-bffshd.combidong25.combidong9.combigassporn.tvbigboobsalert.combigboobsandhotsex.combigboobsonline.orgbigboss.videobigcocker.combigdick.com	bigsex.tvbigtitsgallery.netbigtitsmodelsdirectory.combigtopsites.com	biguz.net
+bffshd.combidong25.combidong9.combigassporn.tvbigboobsalert.combigboobsandhotsex.combigboobsonline.orgbigboss.videobigcocker.combigdick.com	bigsex.tvbigtitsgallery.netbigtitsmodelsdirectory.combigtopsites.com	biguz.netbijukujo.club
 bimbim.combioporno.com bisyoujyogyaruge.topaz.ne.jpbitchesgirls.combitchmomporn.combitporno.comblackamateursvideos.comblacked.comblackmonsterterror.comblackshemalevideo.comblacksonblondes.comblacktowhite.net
 blaoshi.ccblog.descargasgay.combloggrowup.comblogterest.netblowjobit.comblowjobqueens.netbobs-tube.combodgirls.combodyfluids-jav.com	bokep.netbokepseks.orgbokepvidz.combondagecomixxx.netbondagesex-xxx.combongacams.com
 bonyu.cyouboobieblog.comboobpedia.comboobsrealm.comboodigo.comboodigogo.com
@@ -5200,8 +5331,9 @@ cc18tv.comccav69.info	ccav69.meccav691api.comcelebforum.c
 cenkei.comcentervillage.co.jp
 cerdas.comceskeporno.cz	cfake.comcfwives.comcgkate.jinvod.comcharmescorts.comchaturbate.com
 chedteb.euchengjuanseo.comcherryasia.comcherrynudes.comcherrypai.comcherrypanpan.comcherrypimps.comcherrypornhd.comchickteases.comchikiporn.comchinese-porn-videos.comchinesespanking.com	chla3.com
-chocam.comchubbypornonly.comchunja19.netchuporno.comchwr7s8u.com	chyoa.comcindymovies.comcinepornogratis.comcitas-para-mayoresde50.eccitasecuador.comcity-hentai.comcityoflove.comcitytourgirls.comclassymomsex.comclimateone.blogspot.co.id
-clip16.comclipcake.comcliphayho.comcliphunter.comclips4sale.comclipsaoyai.comclipsbai.comclipseksi.comclipsex.asiaclitgames.comcloudyzgirl.comclubseventeen.comclubsweethearts.comclubtubes.comcnnamador.comcockofhorse.comcocksuckersguide.comcocktailsandcocktalk.comcockyboys.comcoedcherry.comcoithienthai.comcoitustube.comcolegialasdeverdad.comcolegialasreales.comcoliriodemacho.com.brcollection-3d.comcollectionofbestporn.comcollegepornonly.comcolombianas.webcamcomdotgame.comcomicbox.xyzcomicscartoonporn.comcomicsporno.escomicunivers.comcomicuniverse.orgcomixzilla.com	conan.xxxcontactossexoecuador.comcool-comics.com
+chocam.comchubbypornonly.comchunja19.netchuporno.comchwr7s8u.com	chyoa.comcindymovies.comcinepornogratis.comcitas-para-mayoresde50.eccitasecuador.comcity-hentai.comcityoflove.comcitytourgirls.comclasporno.orgclassymomsex.comclimateone.blogspot.co.id
+clip16.comclipcake.comcliphayho.comcliphunter.comclips4sale.comclipsaoyai.comclipsbai.comclipseksi.comclipsex.asiaclitgames.comcloudyzgirl.comclubseventeen.comclubsweethearts.comclubtubes.comcnnamador.comcockofhorse.comcocksuckersguide.comcocktailsandcocktalk.comcockyboys.comcoedcherry.comcoithienthai.comcoitustube.comcolegialasdeverdad.comcolegialasreales.comcoliriodemacho.com.brcollection-3d.comcollectionofbestporn.comcollegepornonly.comcolombianas.webcamcomdotgame.com
+comeav.comcomicbox.xyzcomicscartoonporn.comcomicsporno.escomicunivers.comcomicuniverse.orgcomixzilla.com	conan.xxxcontactossexoecuador.comcool-comics.com
 cool18.comcoolinet.netcoomer.partycopro.pw	coqnu.comcorbinfisher.comcosplay-jav.comcosplayeromania.jpcosplayporntube.comcosplayworld.net
 cpz.tocrabporn.comcrazylivecams.comcrazyshit.comcrazyxxx3dworld.comcrazyxxx3dworld.netcrazyxxx3dworld.orgcrazyxxxworld.comcreamasia.comcreamlemon.infocrocotube.comcruel-furies.comcrystalmiss.comcsakporno.hucsgfnmdb.comcsnjcbnxdnb.com
 cuebic.bizcultoferotica.comcultura-kolomna.rucumasianporn.com
@@ -5210,7 +5342,7 @@ d2pass.comda3dsoul.devdaboja18.com
 dachix.comdaddyslilangel.comdaftporn.comdaftsex-hd.com	dagfs.comdailybasis.comdailyporn.clubdaindianporn.comdamnhotz.comdamplips.comdansmovies.comdaretoku-eromanga.infodarkcategories.comdarknaija.comdarknun.comdarksidemagazine.comdatawav.clubdate2night.xyzddd-smart.netdeasians.comdechamora.com
 deeper.comdeepfake-porn.comdeepfakeporn.netdefinebabe.comdefinefetish.comdeiightfuidates.net
 demfhz.xyzderpibooru.orgdesihoes.comdesiporn.tubedesipornfilms.comdesire-xx.supertop-100.comdetentiongirls.comdeutsch-sexfilme.com!deutsche-pornos-kostenlos.xxx deutschepornos-kostenlos.netdeutschsex.comdeviantclip.comdevilsfilm.comdexterhorn.com
-df-bet.com	dgwav.comdhlestudio.com.codiamantewebcam.comdiamondgirls.co.ukdiamondgirlstudio.comdianapost.com	diao.asiadickhardon.comdigitaldesire.comdinotube.comdirty.gamesdirtyasiantube.comdirtydoglinks.comdirtyfarmer.comdirtyflix.comdirtyleague.comdirtyonline.comdirtypornvids.comdirtyscat.orgdirtyshack.comdirtyship.comdisneyhentai.comdivas.com.uy
+df-bet.com	dgaqp.com	dgwav.comdhlestudio.com.codiamantewebcam.comdiamondgirls.co.ukdiamondgirlstudio.comdianapost.com	diao.asiadickhardon.comdigitaldesire.comdinotube.comdirty.gamesdirtyasiantube.comdirtydoglinks.comdirtyfarmer.comdirtyflix.comdirtyleague.comdirtyonline.comdirtypornvids.comdirtyscat.orgdirtyshack.comdirtyship.comdisneyhentai.comdivas.com.uy
 dkcloud.cc	dkk37.comdldlinks.comdldshare.netdlsitenews.comdobbyporn.comdodgersexcartoons.com	doeda.comdogcumshot.netdogfart.comdogfartnetwork.comdogmovie.netdogofcum.comdogspics.netdojin-dl.com	dojin.comdojindb.netdojinmanga.netdojinwatch.comdonkparty.com	donmai.usdonpornogratis.comdonsnaughtymodels.comdoodhwali.comdopaminegirl.comdoseofporn.comdotfreesex.comdoujin-eromanga.comdoujin-freee.comdoujin-info.netdoujin-night.comdoujincg.blog.jpdoujinfree.comdoujinland.infodoujinnomori.comdoujins.comdouyintt10.medownloadpass.comdragonhentai.netdreammovies.comdriverxxx.comdrkogyi.comdrmgmggyi-mm.blogspot.comdrtuber.comdrunkenstepfather.com
 dswz88.xyzdualeotruyen1s.comdubai-escort-list.comdubaihotties.orgduckmovie.comduga.jpdulceecuador.comdump.xxxdumps69.comdumpxxx.netduoweiweek.com
 dutrai.comdvdtrailertube.com
@@ -5219,11 +5351,11 @@ dykycl.comdyttapi.comdyttapis.com	e-cba.org
 e-goods.rue621.neteasymatureporn.comebaka.ruebalovo.comebenporno.comebonyinlove.comebonywebcamhub.com	ecchi.xxxecchinohentai.ruechichimato.comecuatorianas.bestedengay.netedgemeplease.com
 efuckt.com	efukt.comegotastic.com
 ehv.cceighteen-store18x.jpeilieili.ccekolojik.orgel-ladies.comelectbabe.comelephantlist.comelephanttube.comeliteindianporn.com
-elitvip.ruelog-ch.comelog-ch.netelpadrote.com#elpube-scat-movies.blogspot.comempflix.comempornium.site"encuentroscasualesoecuador.comenf-cmnf.comenjoyasianporn.comenjoyfuck.comentensity.neteporner.com	erito.comero-anime.netero-comic-hunter.netero-kawa.comero-manga-platinum.netero-mangalife.com	eroan.xyzerocurves.comerodou.tousatu.funerodouga.8sp.bizerodougazo.comerodoujinshi-world.comeroelog.comeroero69.work
+elitvip.ruelog-ch.comelog-ch.netelpadrote.com#elpube-scat-movies.blogspot.comempflix.comempornium.site"encuentroscasualesoecuador.comenf-cmnf.comenjoyasianporn.comenjoyfuck.comentensity.neteporner.com	erito.comero-anime.netero-comic-hunter.netero-kawa.comero-ma-nia.comero-manga-platinum.netero-mangalife.com	eroan.xyzerocurves.comerodou.tousatu.funerodouga.8sp.bizerodougazo.comerodoujinshi-world.comeroelog.comeroero69.work
 erofus.comerogames.comerogazo-jp.neterogazo-ngo.comerogazopple.comerogazou-pinkline.comerogazoufactory.comerohentai.neteromanga-ace.comeromanga-cafe.comeromanga-hentai.comeromanga-mainichi.comeromangajukujo.comeromazofu.com	erome.comerome.iteropasture.comeroprofile.comerosberry.comeroshiko.neterotera.blogo.jperoterest.neterothots.coerotic-artsites.comerotic-hentai.comeroticart-top100.comeroticbeauties.neteroticbeautyhub.comerotictube.meerotikaweb.huerovizor.ru
-eroxia.comeroyakuba.comertk.netescobarvip.itescort.guideescort24h.netescortamsterdam1.comescortdude.comescortgirls.beescortrankings.ukeskimotube.comesmatube.comesperanzagomez.orgesposasymaridos.comestudio360.com.coestudiopenthouse.comethiosex2.wordpress.comeurobabeindex.comeurogirlsescort.comeuropornstar.comevaelfie.comevemodels.comeveria.clubeverydayporn.coevgld7cg58l8.comevilangel.comevilx.suexgfvideos.xxxexgirlfriendmarket.comexiporn.comexotic-ghana.comexoticuganda.comexplicittube.comexploitedcollegegirls.comexploitedteensasia.comexporntoons.netexposedlatinas.comexs8fkw0.xyzextraindiansex.comextrajapaneseporn.comextreme-board.comextremepornfilms.comextremetube.comexxxtrasmall1.comeyny.com	f6988.com
+eroxia.comeroyakuba.comertk.netescobarvip.itescort.guideescort24h.netescortamsterdam1.comescortdude.comescortgirls.beescortrankings.ukeskimotube.comesmatube.comesperanzagomez.orgesposasymaridos.comestudio360.com.coestudiopenthouse.comethiosex2.wordpress.comeurobabeindex.comeurogirlsescort.comeuropornstar.comeurosexscene.comevaelfie.comevemodels.comeveria.clubeverydayporn.coevgld7cg58l8.comevilangel.comevilx.suexgfvideos.xxxexgirlfriendmarket.comexiporn.comexotic-ghana.comexoticuganda.comexplicittube.comexploitedcollegegirls.comexploitedteensasia.comexporntoons.netexposedlatinas.comexs8fkw0.xyzextraindiansex.comextrajapaneseporn.comextreme-board.comextremepornfilms.comextremetube.comexxxtrasmall1.comeyny.com	f6988.com
 f95zone.to	faapy.comfabhairypussy.comfakehub.comfaketaxi.comfakings.com	fakku.netfameregistry.comfamily-sex.mefamilypies.netfamilyporn.tvfamilypornhd.comfamilysexsimulator.comfamilysimulator.iofamilystrokes.comfamilyswap.xxxfamous-nudes.comfamousinternetgirls.com$ famousinternetgirlsgalleries.comfamousnudes.comfamouspornstars.comfanaken.com
-fanfox.netfanhaodian.comfank.rufanleakstoday.comfanqianglu.comfans-here.comfansnudes.comfansteek.comfantasiasguatemala.comfantasti.ccfantasticyoungporn.comfap-xxx.com
+fanfox.netfanhaodian.comfank.rufanleakstoday.comfanqianglu.comfans-here.comfansnudes.comfansteek.comfantasiasguatemala.comfantasti.ccfantasticyoungporn.comfap-xxx.com	fap18.net
 fap666.comfapality.com
 fapcat.comfapdude.comfapforfun.netfaphdporn.comfaphouse.comfapmovz.comfapnado.comfapopedia.netfappcelebs.comfappeningbook.comfappeningthots.comfappenist.comfapphub.com
 fapporn.mefaproulette.cofaproulette.onlinefapsafari.comfapster.xxxfapteencam.com
@@ -5291,21 +5423,21 @@ ita-do.comitaeromanga.comithaisex.comitsfuck.comivintage
 jadult.netjafgrown.com
 janor6.netjapan-whores.comjapan18tube.comjapanbeast.comjapanesebeauties.netjapanesegirlspictures.comjapaneselovelygirl.comjapanfist.orgjapanxxxfilms.comjapon-girls.comjapteenx.com
 jasmin.comjav-1080.comjav-legend.comjav-subtitles.com
-jav-vr.netjav.dogjav.gurujav.land	jav.placejav01.cc
-jav101.com	jav168.cc	jav19.com
+jav-vr.netjav.dogjav.galleryjav.gurujav.land	jav.placejav01.cc
+jav101.com	jav168.cc	jav19.com	jav24.com
 jav2be.com
-jav321.com	jav777.ccjavbangers.comjavbraze.com	javday.tvjavdisk.com
+jav321.comjav4you.org	jav777.ccjav9999.comjavbangers.comjavbraze.com	javcl.com	javday.tvjavdisk.com
 javdoe.comjavdove.comjavdove8.xyzjavextreme.netjavfilms.com	javfor.me
 javfree.me
 javfree.shjavfuck.netjavfull.net	javfun.me	javfv.com	javgg.netjavgrown.comjavhard.netjavhard.orgjavhaven.com	javhd.com	javhd.projavhd3x.comjavhdfree.netjavhdonline.comjavhdporn.comjavhdporn.net
 javher.comjavheroine.com	javhub.me
 javhub.netjavjack.comjavjunkies.comjavlands.netjavleak.comjavlibrary.comjavmany.comjavmenu.com	javmix.tvjavmodel.comjavmost.comjavmost.xyzjavmuch.com	javout.cojavplatform.comjavporn.tech
-javporn.wsjavprice.com	javpub.mejavpush.com	javqd.comjavrave.clubjavscat.netjavscatsex.comjavscatting.comjavscreens.com
+javporn.wsjavprice.comjavprime.net	javpub.mejavpush.com	javqd.comjavrave.clubjavscat.netjavscatsex.comjavscatting.comjavscreens.com
 javseen.tvjavsex.asia	javsex.to	javsin.tvjavspanking.com
 javtag.netjavtasty.comjavtorrent.mejavtorrent.tkjavtrust.comjavtube.comjavtube.netjavvids.comjavynow.com	jdavsp.pwjdforum.netjenporno.czjerk-porn.comjerkdude.comjerkmate.comjerkmate.tvjerkmatelive.orgjerkofftocelebs.com	jgg18.xyzjiayoulu.com
 jilhub.comjinnaju.comjinsilubanzhao.comjiuse904.comjiuse905.comjiuzhouyihuo.comjiyou520.comjizzboom.comjizzbunker.comjizzhut.com
 jizzle.comjizzonline.comjjaaxyz.comjjdong7.comjjgirls.comjkforum.netjodic-forum.orgjohnpersons.comjoiasmr.comjokerlu1.ccjokerlu1.info
-joyclub.dejoylovedolls.comjoyourself.comjoysporn.comjpav.usjpboy1069.netjpg4.biz	jpg4.infojpg4.pw
+joyclub.dejoylovedolls.comjoyourself.comjoysporn.comjpav.usjpavcom.comjpboy1069.netjpg4.biz	jpg4.infojpg4.pw
 jpg4us.netjtube.spacejuggsjoy.comjuicytwink.comjulesjordan.comjuliamovies.comjusmynote.wordpress.comjust.xxxjustfamilyporn.comjustfullporn.org
 justhd.xyzjustindianporn.mejustlesbianpussy.comjustnudepic.comjustpicsplease.comjustporn.comjustporn.linkjustporno.esjustporno.sexjustporno.tvjustswallows.comjustusboys.com
 jwkcgd.xyz
@@ -5322,7 +5454,7 @@ kompoz.comkompoz2.comkonachan.netkonachan.wjcodes.comkor
 ksyp10.comkum.comkundun1069.comkusugurizanmai.com
 la-mama.rulacomics.org
 ladies.comladybaba.netladyboygold.comladyboygold.euladyboypornonly.comlanasbigboobs.comlangsuirs.comlaowang.viplargecamtube.comlargeporntube.comlatinaabuse.comlatintubeporn.comlazymike.comlbfmaddiction.com
-lbtube.comlcgirls.comleakedmeat.comleaksmodels.comleakxxx.comlenkino.xxxleporno.orglepornochaud.comlepornofrais.comlesbian8.comlesbianpics.orglesbianpornvideos.comlesbiansubmission.comlesboerotica.netletmejerk.comletmejerk.funletsfuckme.netletsjerk.cclevelsex.comlewdthots.comlewdvrgames.comlewdweb.net
+lbtube.comlcgirls.comleakedmeat.comleaksmodels.comleakxxx.comlemoncams.comlenkino.xxxleporno.orglepornochaud.comlepornofrais.comlesbian8.comlesbianpics.orglesbianpornvideos.comlesbiansubmission.comlesboerotica.netletmejerk.comletmejerk.funletsdoeit.comletsfuckme.netletsjerk.cclevelsex.comlewdthots.comlewdvrgames.comlewdweb.net
 lezpoo.comlgbtq.gamesliboggirls.netlifeselector.comlightxxxtube.comlihksnap.comlikeseiyu.comliketruyen.netlikuoo.videolilhumpers.comlilith-soft.comlimer.tw
 limertw.cclimeteensex.comlingeriepornonly.com
 link69.comlinkjunkies.comlinkshit.comliterotica.comlittleasians.comlittlesexdolls.comlivecamclips.comlivejasmin.comlivejasminbabes.netlivemodels.coliveporngirls.comliveprivates.comlivesex.comlivesexasian.com
@@ -5332,7 +5464,8 @@ lolita.betlollipopescorts.comlondonhotescort.comlonestarnaught
 lspimg.com	lss55.comlubetube.comlucahmelayu.clublucasentertainment.com
 lululu.one
 luoli.infolupoporno.comluscious.netlushstories.comlustery.comlusthero.comlustteens.netlustylist.com
-luvmov.comluxuretv.comluxuretv.funm5ir5np1.shopmachigle-sp.commachogaytube.commachosaonatural.com.brmachotube.tvmadchensex.commadonna-av.commadpeople.netmadthumbs.commadvagina.commagicmovies.commahajantech.commaileoch.commalayporn.sitemalayporn.spacemalaypornhub.commallandrinhas.netmalvastudios.commamacitaz.commanga-mill.commanga18.artmangahasu.semangahentai.memangahome.commangoporn.net
+luvmov.comluxuretv.comluxuretv.fun
+lxxlxx.comm5ir5np1.shopmachigle-sp.commachogaytube.commachosaonatural.com.brmachotube.tvmadchensex.commadonna-av.commadpeople.netmadthumbs.commadvagina.commagicmovies.commahajantech.commaileoch.commalayporn.sitemalayporn.spacemalaypornhub.commallandrinhas.netmalvastudios.commamacitaz.commanga-mill.commanga18.artmangahasu.semangahentai.memangahome.commangoporn.net
 manhub.commanhunt.netmanhuntdaily.commanhwa24h.commanhwahentai.memanporn.xxxmansurfer.commantochichi.commanurefetish.commanytoon.commanyvids.commarranazas.commasalabin.commasaladesi.commasalaseen.netmassagerepublic.commat6tube.commature-tube.sexy	mature.nlmatureporner.commaturepornonly.commaturescam.commaturesinhd.commaturetube.commaturewomenanal.com	maya5.netmcstories.commd.hkgolden.commdlf.xyz
 me-gay.commediasama.commedow.ru
 meendo.commeetandfuck.gamesmeetandfuckgames.commegacamz.commegahdporno.netmegapornfreehd.commegaporno.com.brmeilleurpornos.commeitula.netmelonbooks.co.jpmelonstube.commeme111.commen.com	men18.netmenatplay.commengnan.shop
@@ -5347,12 +5480,12 @@ moapi.sitemoapi1.clubmoapi1.onlinemobilepornmovies.commo
 moefuns.co
 moeimg.net
 moemax.net
-moez-m.com	mofos.commofosex.commofosnetwork.com	mom50.commomami18.livedoor.blogmomon-ga.commomoniji.commomsbangteens.commomsexypics.commomsgiveass.commomsteachsex.commomsteachsex.infomomtarts3d.commomtube.clubmoneyswift.onlinemonstercockland.commonstersexporn.netmornporn.commostpopularpornsites.commotherless.commotherporn.ovhmoviesarena.commoviesfree4u.xyzmoviesneek.commoxing.mobimplstudios.commrchewsasianbeaver.com
+moez-m.com	mofos.commofosex.commofosnetwork.com	mom50.commomami18.livedoor.blogmomon-ga.commomoniji.commomsbangteens.commomsexypics.commomsgiveass.commomsteachsex.commomsteachsex.infomomtarts3d.commomtube.clubmoneyswift.onlinemonstercockland.commonstersexporn.netmornporn.commostpopularpornsites.commotherless.commotherporn.ovhmoviesarena.commoviesfree4u.xyzmoviesneek.commplstudios.commrchewsasianbeaver.com
 mrcong.commrdeepfakes.commrlivecam.com
 mrloli.commrpinks.commrporngeek.commrpornlive.commrssiren.com
 mrskin.commrvideosdesexo.xxxmt-ssul1.commu6bce1c.xyzmuchohentai.commulheresafoder.com
 mult34.commultipornfor.memultporn.netmundomais.com.brmuryouav.netmusclegirlflix.commuycerdas.xxxmuyzorras.commvideoporno.xxxmwhentai.netmy3dhentai.commyamateurgirls.netmyanmar-porn.commyavfun.com
-myavok.commyavsuper.commyboylove.commybukkakeporn.com
+myavok.commyavsuper.commybabehotz.commyboylove.commybukkakeporn.com
 mycams.commycartoonsexgames.commyclitgames.commycomicsxxx.commydirtyhobby.commyfappening.orgmyfavoritearcade.commyfistingporn.commyfreeblack.commyfreecams.commyfreepaysite.commyfreeporngames.commyhentaicomics.commyhentaigallery.commylf.com
 mylust.commymasturbators.commyminisexdoll.commymusclevideo.commypornads.commypornbookmarks.commyporngay.commypornhere.com
 myporno.czmyporno.photosmypornolab.clickmypornstarbook.netmypornvid.funmypornwap.funmyrimmingporn.commysexgames.commysexygfs.commytrannycams.commytving.com	mywife.ccmyxvids.commyxxgirl.comn15zev3w.shopnaijauncut.comnailedhard.comnaizitv.topnakadashi.tonaked-girls.me	naked.comnakedasiansex.comnakedmodelsxxx.comnakednews.comnamethatporn.comnamethatpornad.comnan-net.comnanonamad.comnaoconto.comnapiszex.comnarumiya.xii.jpnasty.singlesnaughty.comnaughtyamerica.comnaughtyblog.orgnaughtygamesource.comnaughtyhentai.biznaughtymachinima.comnaughtysophie.comneedgayporn.comnekora.main.jpnekoxxx.comnenitas.clubneotokyo.supertop-100.comnerdnudes.comnesaporn.comnesaporn.mobineswangy.netnetarabic.comnetfapx.comnetflav.comnetpornsex.comnetpornsex.netnetvideogirls.comneuerporno.comnew-akiba.comnew-jero.netnew-redtube.comnew3dcomics.comnewbienudes.comnewbrazz.comnewhentai.orgnewlineporn.comnewsensations.comnewsextv.comnewsexwap.comnewsexxxx.comnhentai.com
@@ -5385,7 +5518,7 @@ porkahd.coporn-bokep.comporn-comic.comporn-discounts.xxx
 porn62.com	porn7.net	porn7.xxx
 porn91.org	porn93.ccpornachi.compornacho.compornadoo.com
 pornaf.compornaffected.compornagent.xyzpornaroma.compornbest.orgpornbozz.compornbraze.compornbrb.compornburger.compornburst.xxxporncana.comporncoil.comporncomixonline.netporncore.netporncrash.comporndeepfake.netporndex.comporndiamond.comporndig.comporndigger.meporndiscount.orgporndiscounts.comporndish.comporndisk.compornditos.comporndoe.comporndoepremium.comporndork.com
-porndr.comporndroids.compornelephant.compornenix.com	porner.tvpornerbros.compornexpress.netpornfidelity.compornfind.orgpornfinder.bizpornfoolery.com	pornfu.tvpornfuck.netpornfuror.comporngames.clubporngames.gamesporngames.tvporngeek.comporngem.comporngladiator.com
+porndr.comporndroids.compornelephant.compornenix.com	porner.tvpornerbros.compornexpress.netpornfactory.infopornfidelity.compornfind.orgpornfinder.bizpornfoolery.com	pornfu.tvpornfuck.netpornfuror.comporngames.clubporngames.gamesporngames.tvporngeek.comporngem.comporngladiator.com
 porngo.comporngo.tubeporngogo.supertop-100.comporngrabbz.compornguide.blogpornguz.compornhail.compornhat.compornhat.one
 pornhat.tv
 pornhd.compornhd3x.tvpornhd8k.netpornhdtube.tvpornhdvideos.tvpornheed.compornheli.compornhits.compornhoho.compornhost.compornhub00.compornhubdeutsch.netpornhubs.videopornhubselect.compornhuub.xyzpornicom.com
@@ -5404,7 +5537,7 @@ ppe.lawyer	pplah.comprastitutki.rupremiumbooty.compremium
 prpops.comptapjmp.comptt.sexpublic-sex-porn.compublicagentxxx.compublicpornvideo.compublicsexhub.compunishbang.compunishworld.compurenudism.compuresexmovies.compuretaboo.compurextc.compuripuriunkomura.com
 pururin.topussy-pics.netpussy3dporn.compussymomsex.compussyporntubes.compussysexgames.compussyshine.infopussyspace.computinho.netpvt.sexy
 pyhapp.comqatarescortsvip.com
-qckprn.comqdiehzz7.meqdmomentum.com
+qckprn.comqdiehzz7.meqdmomentum.com	qinav.com
 qingse.oneqkjuyet.comqmov.comqmov.netqmttqg3k.me
 qombol.com	qorno.com
 qporno.xxxquickiepage.comqumingwz.comr-new-sale.blog.jpr18.clickme.netr18.com	r18av.com	r18lu.comr34porn.netrabbitscams.comrabbitscams.sexrabbitsreviews.comragnaporn.comrajwaphq.comrandyblue.comrapefilms.netrapetube.merat.xxxratedgross.comreachporn.comreal-homemade-movies.comreal-thaipussy.comrealdoll.comrealgfporn.comrealitykings.comreallesbianexposed.comrealpornclip.comrealsexdoll.comrealzoomovies.comrecelebrity.comredamateurtube.comredfaptube.comredgifs.comredhdtube.xxxredlightcenter.comredmatureporn.comredporn.xxxredporno.czredsexhub.comredtub3xxx.comredtube.blogredtube.comredtube.com.brredtube9.comredtubepremium.comredwap-xxx.com	redwap.me
@@ -5415,8 +5548,8 @@ rssing.comrude.comrukoebxx.comrule34.asia	rule34.us
 rule34.xxx
 rule34.xyzrule34h.comrule34pornvids.comrule34video.comruleporn.comrumporn.comrundf665.cyourunporn.comrunwayescorts.comrushporn.onlinerushporn.xxxrussianrape.orgruvideos.nets-books.coms8ds5gfm.xyzsabuibo.net
 sacduc.comsacredhentai.comsafebooru.orgsakuralive.comsambaporno.comsankakucomplex.comsapphicerotica.comsapphicpornonly.comsarapbabe.comsatan18av.com
-satnym.comsavitabhabhi.comsavitabhabhi.vipsavitahd.netscandalplanet.comscat-japan.comscat-shop.netscatfap.comscatfinder.com
-scathd.comscatkings.comscatnetwork.comscatshop.comscatsite.comscatvids.clubscatville.comscharferporno.comscifisex.net
+satnym.comsavitabhabhi.comsavitabhabhi.vipsavitahd.netscandalplanet.comscat-enema.comscat-japan.comscat-shop.netscatfap.comscatfinder.com
+scathd.comscatkings.comscatnetwork.comscatolo-guromania.comscatshop.comscatsite.comscatvids.clubscatville.comscharferporno.comscifisex.net
 scolle.netseancody.comseaporn.org
 search.xxxsecret-flirt-hub.comsecretbabes.co.uksee.xxxseedmov18.comseehorsepenis.comseemygf.comseemyporn.comsego8.ccsego8.co	sego8.xyzsehuatang.netseiroganmania.com
 seksmet.nlsekswebsite.nlselectanescort.comselectyourgame.comselfloversworld.comseneporno.comsenpaiheat.comsensualgirls.orgsensualmothers.comsensueel.netsenzuritv.net
@@ -5450,7 +5583,7 @@ sub147.comsublimedirectory.comsubmityourflicks.comsucksex.com
 supjav.com	suxib.comsvscomics.asiasvscomics.comsvsgames.org	swag.liveswapsmut.comsweetadult-tube.comsweetmlif.netsweetsext.comsweetsinner.comswegold.comswingerpornfun.comswingers.theadulthub.comswpr.livedoor.blog
 sxarab.topsxshentai.com
 sxyprn.comsyzbj36.xyzt66y.comtabooporn.tvtabooporns.comtabootube.xxxtabustudios.cotacamateurs.com	taiav.comtaiwansex.tw
-taknai.comtaleofthenight.comtaradinhos.comtastyblacks.comtati-log.com
+taknai.comtaleofthenight.comtanflix.comtaradinhos.comtastyblacks.comtati-log.com
 taxi69.comtaxidrivermovie.comtbib.org	tblop.comtbr.tangbr.nettctsx28d.xyzteacherfucksteens.comteachmyass.comteamskeet.comteatroporno.comteen-girl.netteen-lover.netteen-sexy.comteen3x.mobiteenagefucking.comteendreams.comteenporngallery.netteenporntube.xxxteenpornvideo.xxxteenport.comteensloveanal.comteensloveporn.netteensnow.comteensnow.linkteentube.proteenwebcamtube.comteeztube.comtelegram-porn.comterrlficdates.comtettediferro.ittgirlcentral.comtgirlpostop.comtgp6.com
 tgtube.comtgutube.comthai-xxx.com
 thai69.comthaicherry.comthaichix.comthaicuties.comthaigirls.netthaigirls100.nettheav.ccthebestfetishsites.comthebondagefiles.comthecamdude.comthecandidbay.comthecandidforum-voyeur.rutheclubprive.comthecuckold.comthefappening.prothefappening.wikithefappeningblog.com
@@ -5468,7 +5601,7 @@ tranny.onetrannygem.comtrannytube.tvtrannyvideosxxx.comt
 tsthai.comtsumino.comtsundora.comtsuradou.noonvob.com	tsyum.comtube-pornomovs.comtube-sex-videos.comtube.bz
 tube18.sextube188.comtube2011.comtube2012.comtube2017.comtube4world.com	tube8.comtube8.frtube8zoo.comtubebdsm.comtubecaptain.comtubedna.comtubedupe.comtubeenema.comtubegalore.comtubegold.xxxtubelombia.nettubemature.tvtubeorigin.comtubepatrol.orgtubepornclassic.comtubepornstars.comtubepornup.comtubesafari.com
 tubesex.metubeshemales.comtubetria.mobitubetubetube.com	tubev.sextubevintageporn.comtubexclips.comtubinge.com
-tubous.comtubsexer.comtubxporn.comtubxporn.xxxtufos.com.br	tukif.comturbogvideos.comtwavking.comtwcomix.comtwhentai.comtwifuli.comtwinkboyfriends.tvtwinkspornos.comtwinktube.sexytwinkybf.comtwistys.comtwitcomike.jp
+tubous.comtubsexer.comtubxporn.comtubxporn.xxxtufos.com.br	tukif.comturbogvideos.com	tushy.comtwavking.comtwcomix.comtwhentai.comtwifuli.comtwinkboyfriends.tvtwinkspornos.comtwinktube.sexytwinkybf.comtwistys.comtwitcomike.jp
 twlegs.comtwoo.com
 tx5254.comtx5ptbp7.comtxqzz34r.com
 txvlog.comtxxx.com	txxx1.comtyler-brown.comtyms2022.comtytng189.comtytporno.onlineu9a9.com	uflash.tvuguisupapa.net
@@ -5476,7 +5609,7 @@ uhairy.com	uhtube.meujapanesesex.comultradonkey.comultray
 uncams.comuncensoredhentai.xxxunderhentai.netuninhibitedcomix.comunkoscene.comunusualporn.netupdatetube.comupjav.cc
 uplust.comupornia.com
 uporno.xxxura-akiba.jp
-urasma.comuriminzokkiri.comurlgalleries.neturukawa.comuselessjunk.comuusexdoll.comuusextoy.comuxxxporn.com	v7hds.comvagabundasdoorkut.net	vagina.nlvaginacontest.comvbejeyv.shopvenezporn.com
+urasma.comuriminzokkiri.comurlgalleries.neturukawa.comuselessjunk.comuusexdoll.comuusextoy.comuxxxporn.com	v7hds.comvagabundasdoorkut.net	vagina.nlvaginacontest.comvbejeyv.shop	vdoav.comvenezporn.com
 veporn.comvepornhd.clubveporno.netvercomicsporno.xxxverhentai.tvverpeliculasporno.gratisvervesex.comveryladyboy.comvgg8.comviddeo-jav.netvideo-one.comvideo.fc2.comvideo01.orgvideodesexo.blogvideoleak.mevideos6.comvideosamadoresreais.comvideosdemadurasx.comvideosdepornografia.blog.brvideosdesexo.br.comvideosdesexo.com.brvideosection.comvideoskaseros.comvideosporno.com.brvideostravestis.xxxvideosxxxnicaragua.topvideoxxxporn.biz
 vidown.comvidspornoduro.comviet.sex
 viet69.devviet69.linkviet69.newsviewgals.comvikiporn.comvintage-erotica-forum.comvintagexxxfilms.comvipergirls.tovipissy.comvipstudiocali.comviralcum.comviralporn.comvirginpornlinks.comvirtualpartyworld.comvirtualrealgay.comvirtualrealporn.comvirtualrealtrans.comvirtualtaboo.comvitukali.comvivaxnxx.com	vixen.com
@@ -5513,7 +5646,8 @@ xxgasm.comxxindianporn.com
 xxmovz.comxxnxx-porn.comxxnxx-sex.comxxvideo.mobixxvideos.xxxxxvideoss.org
 xxvids.netxxx-blog.toxxx-fap.comxxx-files.orgxxx-porn-fuck.comxxx-porn.infoxxx-video.cfdxxx-videos.tvxxx-ways.comxxx.comxxx.xxxxxx18teen.netxxx2022.comxxx2023.comxxx4hindi.comxxxaporn.comxxxassfuck.com
 xxxbit.comxxxbolivianas.comxxxbule.comxxxbullet.comxxxbunker.comxxxccc4.comxxxclub.clubxxxdinotube.comxxxfile.orgxxxfiles.comxxxflare.comxxxforte.comxxxfree.watchxxxfuckmom.comxxxgames.bizxxxgames.gamesxxxgirls88.com	xxxhd.proxxxhdvideo.mobixxxhentai.netxxxhub123.comxxxhubvideos.comxxxifuck.comxxxindianporn2.comxxxindiantv.comxxxjapanesemovies.comxxxland.netxxxlucah.comxxxmomporn.tubexxxmovies.pro
-xxxner.com	xxxnxx.mexxxpenguin.comxxxpicz.comxxxporn123.comxxxporndig.comxxxpornmovs.comxxxpornotuber.comxxxpornozinho.blog.brxxxpornzeed.comxxxreal.comxxxscenes.netxxxsexanal.comxxxsexcinema.comxxxsexzoo.comxxxshame.comxxxstreams.euxxxstreams.orgxxxstreams.watchxxxtubeasian.netxxxtubedot.comxxxtubegf.comxxxtubenote.comxxxtubeset.comxxxtubezoo.com	xxxv.mobixxxvideo.blog.brxxxvideo.vipxxxvideor.comxxxvideos247.comxxxvideoszoo.comxxxvidso.comxxxvirtualworld.comxxxvogue.netxxxxvideo.unoxxxymovies.comxxxyoungxxx.comxzone.toxzxxporn.com
+xxxner.com	xxxnxx.mexxxpenguin.comxxxpicz.comxxxporn123.comxxxporndig.comxxxpornmovs.comxxxpornotuber.comxxxpornozinho.blog.brxxxpornzeed.comxxxreal.comxxxscenes.netxxxsexanal.comxxxsexcinema.comxxxsexzoo.comxxxshame.comxxxstreams.euxxxstreams.orgxxxstreams.watchxxxtubeasian.netxxxtubedot.comxxxtubegf.comxxxtubenote.comxxxtubeset.comxxxtubezoo.com	xxxv.mobixxxvideo.blog.brxxxvideo.vipxxxvideor.comxxxvideos247.comxxxvideoszoo.comxxxvidso.comxxxvirtualworld.comxxxvogue.net
+xxxwow.netxxxxvideo.unoxxxymovies.comxxxyoungxxx.comxzone.toxzxxporn.com
 yabang.org
 yaburi.men	yaddal.tvyadori.club
 yaeby.infoyamoon.clubyande.reyaoimangaonline.comyaoiotaku.comyaoyaomumu.comyaptube.comyasarang.netyatong.infoyavtube.comyazhouse8.comyepporn.comyes.xxxyespornplease.comyespornpleasexxx.comyeswegays.comyeyuehuachao11.comyeyuehuachao12.comyeyuehuachao13.com
@@ -5898,7 +6032,7 @@ CLOUDINARYcloudinary.comcloudinary.net
 cmbimg.comcmbt.cn
 cmbuat.com	cmburl.cncmbwinglungbank.comcmf.bizcmf.ltdcmfchina.com
 cmfunds.cntest-cignacmb.com
-á”
+Ñ—
 CNcn	citic	baidu
 unicomsohu
 xn--fiqs8s
@@ -6064,14 +6198,16 @@ yxhhdl.comacfun.cnaixifan.com apilog-web.acfun.cn
 ads
 acplay.netdandanplay.com
 ali213.net
-acg.tvacgvideo.com
-b23.tvbiliapi.combiliapi.netbilibili.combilibiligame.netbilicdn1.combilicdn2.combilicdn3.combilicdn4.combilicdn5.combiligame.combiligame.netbilivideo.combilivideo.cn	hdslb.comim9.com
-mincdn.com
-biligo.com$ upos-hz-mirrorakam.akamaized.netbiji.com
+acg.tvacgvideo.comanimetamashi.cnanimetamashi.com
+anitama.cnanitama.net
+b23.tv	bigfun.cn	bili22.cnbili2233.cn	bili23.cn	bili33.cnbiliapi.combiliapi.netbilibili.ccbilibili.combilibili.netbilibili.tvbilibiligame.cnbilibiligame.cobilibiligame.netbilibilipay.cnbilibilipay.combilicdn1.combilicdn2.combilicdn3.combilicdn4.combilicdn5.combiligame.cobiligame.combiligame.net
+biligo.combilivideo.cnbilivideo.combilivideo.net	hdslb.com	hdslb.orgim9.commaoercdn.com
+mincdn.comyo9.com$ upos-hz-mirrorakam.akamaized.netbiji.com
 ddmogo.com
 igetget.cnigetget.comluojilab.com	mogoo.com
 sao.cnsaolife.comdmzj.com	douyu.comdouyu.tvdouyucdn.cndouyucdn2.cndouyuscdn.comdouyutv.comdtstatic.comduitang.comgamersky.com
-gcores.comgitv.cngitv.tvhuya.commsstatic.com	71.am	iqiyi.comiqiyipic.com
+gcores.comgitv.cngitv.tvhuya.commsstatic.com	71.amiq.com
+!cn	iqiyi.comiqiyipic.com
 pps.tv
 ppsimg.comqiyi.comqiyipic.com
 qy.net
@@ -6134,7 +6270,8 @@ hacpai.com	ld246.comkechuang.orgkc.kexinshe.com
 nga.cn178.com
 ngabbs.comngacn.ccsaraba1st.com
 52pojie.cnitsk.com
-klpbbs.com	mcbbs.net	fofa.infoitdog.cnwebmasterhome.cnkuaiduizuoye.comipip.net	ip138.comipplus360.com	feng1.comrongechain.comsf-airlines.comsf-cityrush.comsf-express.comsf-financial.comsf-saas.comsf-tech.com.cnsfcar.hksffix.cnsfgy.orgmcmod.cn
+klpbbs.com	mcbbs.net	fofa.infoitdog.cnwebmasterhome.cnkuaiduizuoye.comipip.netmyip.la
+!cn	ip138.comipplus360.com	feng1.comrongechain.comsf-airlines.comsf-cityrush.comsf-express.comsf-financial.comsf-saas.comsf-tech.com.cnsfcar.hksffix.cnsfgy.orgmcmod.cn
 moulem.com36dianping.com36kr.com36krcdn.com36krcnd.comcctv.cncctv.comcctvpic.comchinaepg.cnchinalive.comcitv.net.cncnms.net.cncntv.cncntv.com.cn
 cctvlib.cncctvlibrary.cncctvlib.com.cncctvlibrary.com.cn
 cctvpro.cncctvpro.com.cn	cntvwb.cngjgbdszt.cngjgbdszt.com.cngjgbdszt.net.cn	ipanda.cn
@@ -6577,7 +6714,7 @@ myhwcdn.cnmyhwcdn.commyhwcloudlive.commyhwclouds.compage
 !cn*na-mexico-1.myhuaweicloud.com
 !cn- ru-northwest-2.myhuaweicloud.com
 !cn*sa-brazil-1.myhuaweicloud.com
-!cncdnhwchcg02.comcdnhwcurq03.comcdnhwczba04.comcdnhwclxw05.comcdnhwcupf06.comcdnhwcxcy07.comcdnhwcatq08.comcdnhwcztu09.comcdnhwcedi10.comcdnhwcoem01.comcdnhwcllh11.comcdnhwcjog12.comcdnhwcpsd13.comcdnhwcqwg14.comcdnhwcqir15.comcdnhwcvix16.comcdnhwcajk17.comcdnhwcchh18.comcdnhwcohm19.comcdnhwczjt20.comcdnhwcggk22.comcdnhwczth23.comcdnhwctxz24.comcdnhwcgrb01.cncdnhwcyxb02.cncdnhwcywp03.cncdnhwclkl04.cncdnhwcjbj05.cncdnhwconz06.cncdnhwcgqa21.comcdnhwckbw08.cncdnhwcsjs09.cncdnhwcjkl10.cncdnhwctmz11.cncdnhwcrpp12.cncdnhwcpqh13.cncdnhwcxsi14.cncdnhwcfzp15.cncdnhwcgvs16.cncdnhwcrgg07.cncdnhwceft18.cncdnhwccvo19.cncdnhwcbvo20.cncdnhwcdkd21.cncdnhwcdvg22.cncdnhwclnh23.cncdnhwckfd24.cncdnhwczxh101.comcdnhwcbzj102.comcdnhwcjqv17.cncdnhwcljk104.comcdnhwclxu105.comcdnhwcbqs106.comcdnhwctnm107.comcdnhwcbni108.comcdnhwczks109.comcdnhwcick110.comcdnhwcead111.comcdnhwcjlg112.comcdnhwckon103.comcdnhwczmn114.comcdnhwcqgw115.comcdnhwckfz116.comcdnhwcqve117.comcdnhwcgnc118.comcdnhwcuim119.comcdnhwcjsb120.comcdnhwccmz121.comcdnhwcibv122.comcdnhwcprh113.comcdnhwcedt124.comcdnhwcofl101.cncdnhwclrd102.cncdnhwcurr103.cncdnhwczid104.cncdnhwcqvk105.cncdnhwczoy106.cncdnhwcuwd107.cncdnhwcogx108.cncdnhwcoph123.comcdnhwceod109.cncdnhwcpcw110.cncdnhwczic111.cncdnhwcozb112.cncdnhwcqrr114.cncdnhwcaoc115.cncdnhwctyd116.cncdnhwcidu117.cncdnhwclsl119.cncdnhwcsux118.cncdnhwcbie120.cncdnhwcuxc121.cncdnhwcaip122.cncdnhwcwqz113.cncdnhwcojn124.cncdnhwcscc123.cn#.+\.cdnhwc([1-9]|10)\.(cn|com)$+'.+\.cdnhwc[a-z]{3}[0-9]{2,3}\.(cn|com)$abhouses.comagconnect.link	dbank.comdbankcdn.comdbankcloud.comhicloud.comhihonor.comhonor.cn	huawei.cn
+!cncdnhwchcg02.comcdnhwcurq03.comcdnhwczba04.comcdnhwclxw05.comcdnhwcupf06.comcdnhwcxcy07.comcdnhwcatq08.comcdnhwcztu09.comcdnhwcedi10.comcdnhwcoem01.comcdnhwcllh11.comcdnhwcjog12.comcdnhwcpsd13.comcdnhwcqwg14.comcdnhwcqir15.comcdnhwcvix16.comcdnhwcajk17.comcdnhwcchh18.comcdnhwcohm19.comcdnhwczjt20.comcdnhwcggk22.comcdnhwczth23.comcdnhwctxz24.comcdnhwcgrb01.cncdnhwcyxb02.cncdnhwcywp03.cncdnhwclkl04.cncdnhwcjbj05.cncdnhwconz06.cncdnhwcgqa21.comcdnhwckbw08.cncdnhwcsjs09.cncdnhwcjkl10.cncdnhwctmz11.cncdnhwcrpp12.cncdnhwcpqh13.cncdnhwcxsi14.cncdnhwcfzp15.cncdnhwcgvs16.cncdnhwcrgg07.cncdnhwceft18.cncdnhwccvo19.cncdnhwcbvo20.cncdnhwcdkd21.cncdnhwcdvg22.cncdnhwclnh23.cncdnhwckfd24.cncdnhwczxh101.comcdnhwcbzj102.comcdnhwcjqv17.cncdnhwcljk104.comcdnhwclxu105.comcdnhwcbqs106.comcdnhwctnm107.comcdnhwcbni108.comcdnhwczks109.comcdnhwcick110.comcdnhwcead111.comcdnhwcjlg112.comcdnhwckon103.comcdnhwczmn114.comcdnhwcqgw115.comcdnhwckfz116.comcdnhwcqve117.comcdnhwcgnc118.comcdnhwcuim119.comcdnhwcjsb120.comcdnhwccmz121.comcdnhwcibv122.comcdnhwcprh113.comcdnhwcedt124.comcdnhwcofl101.cncdnhwclrd102.cncdnhwcurr103.cncdnhwczid104.cncdnhwcqvk105.cncdnhwczoy106.cncdnhwcuwd107.cncdnhwcogx108.cncdnhwcoph123.comcdnhwceod109.cncdnhwcpcw110.cncdnhwczic111.cncdnhwcozb112.cncdnhwcqrr114.cncdnhwcaoc115.cncdnhwctyd116.cncdnhwcidu117.cncdnhwclsl119.cncdnhwcsux118.cncdnhwcbie120.cncdnhwcuxc121.cncdnhwcaip122.cncdnhwcwqz113.cncdnhwcojn124.cncdnhwcscc123.cn#.+\.cdnhwc([1-9]|10)\.(cn|com)$abhouses.comagconnect.link	dbank.comdbankcdn.comdbankcloud.comhicloud.comhihonor.comhonor.cn	huawei.cn
 huawei.comhuawei.com.cnhuaweiacad.comhuaweiief.cnhuaweiief.comhuaweistatic.com	hwccpc.cn
 hwccpc.comhwht.cnhwocloud.com
 hwtrip.comshanhaitujian.com	vmall.comvmallres.comiflytek.com	xunfei.cn
@@ -7270,8 +7407,8 @@ DEVIANTARTdeviantart.comdeviantart.netda-files.com
 DIDA365dida365.com
 š
 DIDIdidi-food.comdidiaustralia.blogdidichuxing.comdidiglobal.comdidimobility.co.jpdidistatic.comxiaojukeji.com
-ú
-DIGICERTdigicert-cn.comdigicert.cn
+—
+DIGICERTdigicert-cn.comdigicert-validation.comdigicert.cn
 cndigicert.comdigitalcertvalidation.comfreessl.comgeotrust.comrapidssl.com
 thawte.com	thawte.de	thawte.frquovadisglobal.compublic-trust.com
 _
@@ -7716,7 +7853,7 @@ gcores.com
 GEETESTgeetest.com#geetest.datasink.sensorsdata.cn
 `
 GEMFURY	fury.blogfury.cofury.dev	fury.helpfury.iogemfury.com
-–°
+šÖ
 GEOLOCATION-!CNgovmileduacadaeafagalamanaoaqaratauawaxazbabgbhbibjbmbnbobrbsbvbwbybzcacdcgclcmcrcucwcxcyczdedkdzecegehereseufifjfkfofrgagbgdgeghgiglgmgngrgsgtgugwgyhkhnhthuieiliniqirjejmjojpkekhkiknkpkrkwkykzlblclilklrlsltlulymamcmdmfmgmhmkmnmompmqmrmtmumwmxmymznancnenfngninlnonpnrnunzompapepfpgphplpnrerorurwsascsdsesgsisjskslsnsrssstsusvsxsysztctdtfthtjtktltmtntotptrtttwtzuaugukumusuyuzvavcvevgvivnvuwfytzazmzwaflmlbnbanflnra	averybbbbcgcebcrsdnbdnpdunsdvagerniglobalxice	locusmckinseyolayangroup
 olayan	praxisapseek
 vistaprint	vistawtc	xeroxathletabananarepublic	bloomberg	bootscalvinkleincartier	chloegap	gucci
@@ -8107,7 +8244,7 @@ actalis.itamazontrust.comawstrust.com
 buypass.no
 buypass.seminid.nocertinomis.comcertinomis.fr	certum.plocsp-certum.comocsp-responder.com
 comodo.com
-comodo.netcomodoca.comcomodoca2.comcomodoca3.comcomodoca4.comcybertrust.co.jpcybertrust.ne.jpdigicert-cn.comdigicert.cn
+comodo.netcomodoca.comcomodoca2.comcomodoca3.comcomodoca4.comcybertrust.co.jpcybertrust.ne.jpdigicert-cn.comdigicert-validation.comdigicert.cn
 cndigicert.comdigitalcertvalidation.comfreessl.comgeotrust.comrapidssl.com
 thawte.com	thawte.de	thawte.frquovadisglobal.compublic-trust.comentrust.netentrustdatacard.comaffirmtrust.comatos.net
 myatos.netcertificat2.comtrendmicro.com	gandi.netalphassl.comglobalsign-media.comglobalsign.beglobalsign.chglobalsign.co.ukglobalsign.comglobalsign.com.auglobalsign.com.hkglobalsign.com.sgglobalsign.esglobalsign.euglobalsign.frglobalsign.netglobalsign.nlcrl2.alphassl.com
@@ -8115,8 +8252,9 @@ myatos.netcertificat2.comtrendmicro.com	gandi.netalphassl
 cn ocsp2.globalsign.com
 cn!secure.globalsign.com
 cn secure2.alphassl.com
-cngodaddy.comx.cogodaddypki.googcrl.pki.goog
+cngodaddy.comx.cogodaddypki.googclients1.google.compki.google.comcrl.pki.goog
 cnocsp.pki.goog
+cn!pki-goog.l.google.com
 cneca.hinet.netgtlsca.nat.gov.twhongkongpost.gov.hkecert.gov.hkidentrust.comidentrust.co.ukidentrust.net	lencr.orgletsencrypt.comletsencrypt.org
 msocsp.comcrl.microsoft.commscrl.microsoft.comocsp.microsoft.comoneocsp.microsoft.comwww.microsoft.com
 cnsecom.co.jpsecomtrust.netcybertrust.co.jpcybertrust.ne.jpmanagedpki.ne.jpenterprisessl.comhackerguardian.cominstantssl.comoptimumssl.compositivessl.comsectigo.comtrust-provider.cn
@@ -8868,7 +9006,7 @@ ehwiki.orgexhentai.orghath.networkhentaiathome.nethentai
 javbus.comjavbus22.com	javcdn.ccjavcc.cc	javcc.com	javdb.comjdbimgs.comjdbstatic.comjavwide.com
 javwide.tvjohren.games
 johren.net
-metart.commetartnetwork.commetcams.comnaiadsystems.com	nsimg.net
+metart.commetartnetwork.commetcams.comnaiadsystems.com	nsimg.netmoxing.mobimoxing.news
 nutaku.com
 nutaku.net	bikaa.xyz	bikac.xyzbikaios.xyz
 picacn.xyzpicacomic.compicacomic.xyzwikawika.xyz
@@ -8915,12 +9053,12 @@ scoretv.tvscoreuniverse.comscorevideos.comsharizelvideos.com
 8muses.com	8muses.io
 8muses.xxx8teenxxx.com8thstreetlatinas.com8xxx.net90seconds.asia91avfuli.com91cy.app
 91fans.org91gay.me91porn.best
-91porn.com91porny.com91qk41rf.com91rb.net91se.fun91sesex.xyz91tv.tw920share.com97dounai.top98916.tv99re.com99thz.cc	99thz.com	9cao9.com9ccms.me
+91porn.com91porny.com91qk41rf.com91se.fun91sesex.xyz91tv.tw920share.com97dounai.top98916.tv99re.com99thz.cc	99thz.com	9cao9.com9ccms.me
 9hentai.ru
 9hentai.to9hentaiz.com
 9xlove.xyz
 9zipai.neta-hentai.tv	aadmv.comaalah.meaavs.xyzabclider.comaboutporno.netabsoluporn.comabsolutewhores.com!acasadasbrasileirinhas.com.bracces-vod.comacgnmanhua.com
-acgww.cyouacjj.netadanaatikhaber.com	adbkm.comadorable-teens.netadorevids.comadult-list.comadult-sex-games.comadult-web-site.netadult.contents.fc2.comadult.toonsearch.netadult3dcomics.comadult3dfantasycomics.comadult3dporno.comadult3dtoons.comadult789.futoka.jp"adultartlinks.supertop-100.comadultartsites.comadultbay.orgadultblogranking.comadultcamslover.comadultdeepfakes.comadultdvdmarketplace.comadultdvdtalk.comadultepic.comadulterfree.comadulters.orgadultfreex.comadultfriendfinder.comadultgames.gamesadultgames.meadultgames18.comadultgamesportal.comadultgamestop.comadultgamingroom.comadultgeek.netadulti01.comadultism.comadultmagazinespdf.com
+acgww.cyouacjj.netadanaatikhaber.com	adbkm.comadorable-teens.netadorevids.comadult-list.comadult-sex-games.comadult-web-site.netadult.contents.fc2.comadult.toonsearch.netadult3dcomics.comadult3dfantasycomics.comadult3dporno.comadult3dtoons.comadult789.futoka.jp"adultartlinks.supertop-100.comadultartsites.comadultbay.orgadultblogranking.comadultcamslover.comadultdeepfakes.comadultdvdmarketplace.comadultdvdtalk.comadultepic.comadulterfree.comadulters.orgadultfreex.comadultfriendfinder.comadultgames.gamesadultgames.meadultgames18.comadultgamesportal.comadultgamestop.comadultgamingroom.comadultgeek.netadulti01.comadultinfojpn.comadultism.comadultmagazinespdf.com
 adulto.vipadultrental.comadultsexgame.bizadultsexgames.bizadulttime.comadulttoontube.comadultvideotop.comadultvirtualworlds.netaebn.comafappyending.comaffect3dstore.comaflamporn.comaflamsex.netaflamsexhd.comafriboyz.comagag.tw	agzy1.com	ah-me.comahegao.onlineahentaitv.comahorsecock.com
 ahtops.comahtranny.com
 ahxxx.clubaibaobei.meaimei133.comairav.cc
@@ -8937,7 +9075,7 @@ archivx.to	area51.toarirangmeari.com
 armovs.comartnudegalleries.comartoferotica.infoarzon.jpashemaletube.comashemaletv.comasiamoviepass.comasian-max.comasianboygay.comasiancamgirllive.comasiancamly.comasiangfvideos.comasiangirlsnextdoor.comasianporn.restasianporn.sexyasianpornjav.comasianpornmovies.comasianpornonly.comasianporntrends.comasianprivatetube.comasianscreens.comasiansex.sexyasiansexdiary.comasiansmaster.comasianthumbs.orgasianxxxjoy.comasknudes.comasmhentai.comasredas.comass4all.comassistirhentai.comassoass.comassylum.com	atube.xxx
 atubex.comauntymaza.comav-baron.comav-channel.com	av-th.netav01.tvav11.org	av1688.ccav234567.com
 av4.usav69.tvav69.usav6k.com
-avbebe.com
+avbebe.com	avcar.vip
 avcens.xyzavcrempie.comavday.tv
 avelip.comaventertainments.comavfox.cc
 avgigi.com	avgle.com
@@ -8953,7 +9091,7 @@ b3boos.com	b3bos.com	b6b33.combabepedia.com	babes.com
 bdsmlr.combdsmpornonly.combdsmsexgame.combdsmstreak.combeastiegals.combeastysexlinks.combeastythumbs.combeautifulandbusty.combeautyescortsamsterdam.combeeg.com	beeg.restbeegfree.com	beejp.net
 befuck.com	bejav.netbekijkporno.nlbelamionline.combellebound.com
 bellesa.cobellotube.combenaughty.funberlincompanions.combest3dhere.combestcamsites.netbesterpornos.combestescortgirls.nlbestfreecams.clubbestfreetube.netbestfreetube.xxxbesthentaitube.combestiality.gurubestialitysextaboo.combestialitytaboo.tvbestialityvideo.usbestjapanesepornsites.combestkinky.combestlistofporn.combestporncomix.combestpornsites.eubestpornsites.guidebestporntube.mebestpremiumpornsite.combesttitstube.combesttube4you.combestxxxsites.combetterhdporn.combeurettesvideo.combexjt5wz.xyz
-bffshd.combidong25.combidong9.combigassporn.tvbigboobsalert.combigboobsandhotsex.combigboobsonline.orgbigboss.videobigcocker.combigdick.com	bigsex.tvbigtitsgallery.netbigtitsmodelsdirectory.combigtopsites.com	biguz.net
+bffshd.combidong25.combidong9.combigassporn.tvbigboobsalert.combigboobsandhotsex.combigboobsonline.orgbigboss.videobigcocker.combigdick.com	bigsex.tvbigtitsgallery.netbigtitsmodelsdirectory.combigtopsites.com	biguz.netbijukujo.club
 bimbim.combioporno.com bisyoujyogyaruge.topaz.ne.jpbitchesgirls.combitchmomporn.combitporno.comblackamateursvideos.comblacked.comblackmonsterterror.comblackshemalevideo.comblacksonblondes.comblacktowhite.net
 blaoshi.ccblog.descargasgay.combloggrowup.comblogterest.netblowjobit.comblowjobqueens.netbobs-tube.combodgirls.combodyfluids-jav.com	bokep.netbokepseks.orgbokepvidz.combondagecomixxx.netbondagesex-xxx.combongacams.com
 bonyu.cyouboobieblog.comboobpedia.comboobsrealm.comboodigo.comboodigogo.com
@@ -8969,8 +9107,9 @@ cc18tv.comccav69.info	ccav69.meccav691api.comcelebforum.c
 cenkei.comcentervillage.co.jp
 cerdas.comceskeporno.cz	cfake.comcfwives.comcgkate.jinvod.comcharmescorts.comchaturbate.com
 chedteb.euchengjuanseo.comcherryasia.comcherrynudes.comcherrypai.comcherrypanpan.comcherrypimps.comcherrypornhd.comchickteases.comchikiporn.comchinese-porn-videos.comchinesespanking.com	chla3.com
-chocam.comchubbypornonly.comchunja19.netchuporno.comchwr7s8u.com	chyoa.comcindymovies.comcinepornogratis.comcitas-para-mayoresde50.eccitasecuador.comcity-hentai.comcityoflove.comcitytourgirls.comclassymomsex.comclimateone.blogspot.co.id
-clip16.comclipcake.comcliphayho.comcliphunter.comclips4sale.comclipsaoyai.comclipsbai.comclipseksi.comclipsex.asiaclitgames.comcloudyzgirl.comclubseventeen.comclubsweethearts.comclubtubes.comcnnamador.comcockofhorse.comcocksuckersguide.comcocktailsandcocktalk.comcockyboys.comcoedcherry.comcoithienthai.comcoitustube.comcolegialasdeverdad.comcolegialasreales.comcoliriodemacho.com.brcollection-3d.comcollectionofbestporn.comcollegepornonly.comcolombianas.webcamcomdotgame.comcomicbox.xyzcomicscartoonporn.comcomicsporno.escomicunivers.comcomicuniverse.orgcomixzilla.com	conan.xxxcontactossexoecuador.comcool-comics.com
+chocam.comchubbypornonly.comchunja19.netchuporno.comchwr7s8u.com	chyoa.comcindymovies.comcinepornogratis.comcitas-para-mayoresde50.eccitasecuador.comcity-hentai.comcityoflove.comcitytourgirls.comclasporno.orgclassymomsex.comclimateone.blogspot.co.id
+clip16.comclipcake.comcliphayho.comcliphunter.comclips4sale.comclipsaoyai.comclipsbai.comclipseksi.comclipsex.asiaclitgames.comcloudyzgirl.comclubseventeen.comclubsweethearts.comclubtubes.comcnnamador.comcockofhorse.comcocksuckersguide.comcocktailsandcocktalk.comcockyboys.comcoedcherry.comcoithienthai.comcoitustube.comcolegialasdeverdad.comcolegialasreales.comcoliriodemacho.com.brcollection-3d.comcollectionofbestporn.comcollegepornonly.comcolombianas.webcamcomdotgame.com
+comeav.comcomicbox.xyzcomicscartoonporn.comcomicsporno.escomicunivers.comcomicuniverse.orgcomixzilla.com	conan.xxxcontactossexoecuador.comcool-comics.com
 cool18.comcoolinet.netcoomer.partycopro.pw	coqnu.comcorbinfisher.comcosplay-jav.comcosplayeromania.jpcosplayporntube.comcosplayworld.net
 cpz.tocrabporn.comcrazylivecams.comcrazyshit.comcrazyxxx3dworld.comcrazyxxx3dworld.netcrazyxxx3dworld.orgcrazyxxxworld.comcreamasia.comcreamlemon.infocrocotube.comcruel-furies.comcrystalmiss.comcsakporno.hucsgfnmdb.comcsnjcbnxdnb.com
 cuebic.bizcultoferotica.comcultura-kolomna.rucumasianporn.com
@@ -8979,7 +9118,7 @@ d2pass.comda3dsoul.devdaboja18.com
 dachix.comdaddyslilangel.comdaftporn.comdaftsex-hd.com	dagfs.comdailybasis.comdailyporn.clubdaindianporn.comdamnhotz.comdamplips.comdansmovies.comdaretoku-eromanga.infodarkcategories.comdarknaija.comdarknun.comdarksidemagazine.comdatawav.clubdate2night.xyzddd-smart.netdeasians.comdechamora.com
 deeper.comdeepfake-porn.comdeepfakeporn.netdefinebabe.comdefinefetish.comdeiightfuidates.net
 demfhz.xyzderpibooru.orgdesihoes.comdesiporn.tubedesipornfilms.comdesire-xx.supertop-100.comdetentiongirls.comdeutsch-sexfilme.com!deutsche-pornos-kostenlos.xxx deutschepornos-kostenlos.netdeutschsex.comdeviantclip.comdevilsfilm.comdexterhorn.com
-df-bet.com	dgwav.comdhlestudio.com.codiamantewebcam.comdiamondgirls.co.ukdiamondgirlstudio.comdianapost.com	diao.asiadickhardon.comdigitaldesire.comdinotube.comdirty.gamesdirtyasiantube.comdirtydoglinks.comdirtyfarmer.comdirtyflix.comdirtyleague.comdirtyonline.comdirtypornvids.comdirtyscat.orgdirtyshack.comdirtyship.comdisneyhentai.comdivas.com.uy
+df-bet.com	dgaqp.com	dgwav.comdhlestudio.com.codiamantewebcam.comdiamondgirls.co.ukdiamondgirlstudio.comdianapost.com	diao.asiadickhardon.comdigitaldesire.comdinotube.comdirty.gamesdirtyasiantube.comdirtydoglinks.comdirtyfarmer.comdirtyflix.comdirtyleague.comdirtyonline.comdirtypornvids.comdirtyscat.orgdirtyshack.comdirtyship.comdisneyhentai.comdivas.com.uy
 dkcloud.cc	dkk37.comdldlinks.comdldshare.netdlsitenews.comdobbyporn.comdodgersexcartoons.com	doeda.comdogcumshot.netdogfart.comdogfartnetwork.comdogmovie.netdogofcum.comdogspics.netdojin-dl.com	dojin.comdojindb.netdojinmanga.netdojinwatch.comdonkparty.com	donmai.usdonpornogratis.comdonsnaughtymodels.comdoodhwali.comdopaminegirl.comdoseofporn.comdotfreesex.comdoujin-eromanga.comdoujin-freee.comdoujin-info.netdoujin-night.comdoujincg.blog.jpdoujinfree.comdoujinland.infodoujinnomori.comdoujins.comdouyintt10.medownloadpass.comdragonhentai.netdreammovies.comdriverxxx.comdrkogyi.comdrmgmggyi-mm.blogspot.comdrtuber.comdrunkenstepfather.com
 dswz88.xyzdualeotruyen1s.comdubai-escort-list.comdubaihotties.orgduckmovie.comduga.jpdulceecuador.comdump.xxxdumps69.comdumpxxx.netduoweiweek.com
 dutrai.comdvdtrailertube.com
@@ -8988,11 +9127,11 @@ dykycl.comdyttapi.comdyttapis.com	e-cba.org
 e-goods.rue621.neteasymatureporn.comebaka.ruebalovo.comebenporno.comebonyinlove.comebonywebcamhub.com	ecchi.xxxecchinohentai.ruechichimato.comecuatorianas.bestedengay.netedgemeplease.com
 efuckt.com	efukt.comegotastic.com
 ehv.cceighteen-store18x.jpeilieili.ccekolojik.orgel-ladies.comelectbabe.comelephantlist.comelephanttube.comeliteindianporn.com
-elitvip.ruelog-ch.comelog-ch.netelpadrote.com#elpube-scat-movies.blogspot.comempflix.comempornium.site"encuentroscasualesoecuador.comenf-cmnf.comenjoyasianporn.comenjoyfuck.comentensity.neteporner.com	erito.comero-anime.netero-comic-hunter.netero-kawa.comero-manga-platinum.netero-mangalife.com	eroan.xyzerocurves.comerodou.tousatu.funerodouga.8sp.bizerodougazo.comerodoujinshi-world.comeroelog.comeroero69.work
+elitvip.ruelog-ch.comelog-ch.netelpadrote.com#elpube-scat-movies.blogspot.comempflix.comempornium.site"encuentroscasualesoecuador.comenf-cmnf.comenjoyasianporn.comenjoyfuck.comentensity.neteporner.com	erito.comero-anime.netero-comic-hunter.netero-kawa.comero-ma-nia.comero-manga-platinum.netero-mangalife.com	eroan.xyzerocurves.comerodou.tousatu.funerodouga.8sp.bizerodougazo.comerodoujinshi-world.comeroelog.comeroero69.work
 erofus.comerogames.comerogazo-jp.neterogazo-ngo.comerogazopple.comerogazou-pinkline.comerogazoufactory.comerohentai.neteromanga-ace.comeromanga-cafe.comeromanga-hentai.comeromanga-mainichi.comeromangajukujo.comeromazofu.com	erome.comerome.iteropasture.comeroprofile.comerosberry.comeroshiko.neterotera.blogo.jperoterest.neterothots.coerotic-artsites.comerotic-hentai.comeroticart-top100.comeroticbeauties.neteroticbeautyhub.comerotictube.meerotikaweb.huerovizor.ru
-eroxia.comeroyakuba.comertk.netescobarvip.itescort.guideescort24h.netescortamsterdam1.comescortdude.comescortgirls.beescortrankings.ukeskimotube.comesmatube.comesperanzagomez.orgesposasymaridos.comestudio360.com.coestudiopenthouse.comethiosex2.wordpress.comeurobabeindex.comeurogirlsescort.comeuropornstar.comevaelfie.comevemodels.comeveria.clubeverydayporn.coevgld7cg58l8.comevilangel.comevilx.suexgfvideos.xxxexgirlfriendmarket.comexiporn.comexotic-ghana.comexoticuganda.comexplicittube.comexploitedcollegegirls.comexploitedteensasia.comexporntoons.netexposedlatinas.comexs8fkw0.xyzextraindiansex.comextrajapaneseporn.comextreme-board.comextremepornfilms.comextremetube.comexxxtrasmall1.comeyny.com	f6988.com
+eroxia.comeroyakuba.comertk.netescobarvip.itescort.guideescort24h.netescortamsterdam1.comescortdude.comescortgirls.beescortrankings.ukeskimotube.comesmatube.comesperanzagomez.orgesposasymaridos.comestudio360.com.coestudiopenthouse.comethiosex2.wordpress.comeurobabeindex.comeurogirlsescort.comeuropornstar.comeurosexscene.comevaelfie.comevemodels.comeveria.clubeverydayporn.coevgld7cg58l8.comevilangel.comevilx.suexgfvideos.xxxexgirlfriendmarket.comexiporn.comexotic-ghana.comexoticuganda.comexplicittube.comexploitedcollegegirls.comexploitedteensasia.comexporntoons.netexposedlatinas.comexs8fkw0.xyzextraindiansex.comextrajapaneseporn.comextreme-board.comextremepornfilms.comextremetube.comexxxtrasmall1.comeyny.com	f6988.com
 f95zone.to	faapy.comfabhairypussy.comfakehub.comfaketaxi.comfakings.com	fakku.netfameregistry.comfamily-sex.mefamilypies.netfamilyporn.tvfamilypornhd.comfamilysexsimulator.comfamilysimulator.iofamilystrokes.comfamilyswap.xxxfamous-nudes.comfamousinternetgirls.com$ famousinternetgirlsgalleries.comfamousnudes.comfamouspornstars.comfanaken.com
-fanfox.netfanhaodian.comfank.rufanleakstoday.comfanqianglu.comfans-here.comfansnudes.comfansteek.comfantasiasguatemala.comfantasti.ccfantasticyoungporn.comfap-xxx.com
+fanfox.netfanhaodian.comfank.rufanleakstoday.comfanqianglu.comfans-here.comfansnudes.comfansteek.comfantasiasguatemala.comfantasti.ccfantasticyoungporn.comfap-xxx.com	fap18.net
 fap666.comfapality.com
 fapcat.comfapdude.comfapforfun.netfaphdporn.comfaphouse.comfapmovz.comfapnado.comfapopedia.netfappcelebs.comfappeningbook.comfappeningthots.comfappenist.comfapphub.com
 fapporn.mefaproulette.cofaproulette.onlinefapsafari.comfapster.xxxfapteencam.com
@@ -9060,21 +9199,21 @@ ita-do.comitaeromanga.comithaisex.comitsfuck.comivintage
 jadult.netjafgrown.com
 janor6.netjapan-whores.comjapan18tube.comjapanbeast.comjapanesebeauties.netjapanesegirlspictures.comjapaneselovelygirl.comjapanfist.orgjapanxxxfilms.comjapon-girls.comjapteenx.com
 jasmin.comjav-1080.comjav-legend.comjav-subtitles.com
-jav-vr.netjav.dogjav.gurujav.land	jav.placejav01.cc
-jav101.com	jav168.cc	jav19.com
+jav-vr.netjav.dogjav.galleryjav.gurujav.land	jav.placejav01.cc
+jav101.com	jav168.cc	jav19.com	jav24.com
 jav2be.com
-jav321.com	jav777.ccjavbangers.comjavbraze.com	javday.tvjavdisk.com
+jav321.comjav4you.org	jav777.ccjav9999.comjavbangers.comjavbraze.com	javcl.com	javday.tvjavdisk.com
 javdoe.comjavdove.comjavdove8.xyzjavextreme.netjavfilms.com	javfor.me
 javfree.me
 javfree.shjavfuck.netjavfull.net	javfun.me	javfv.com	javgg.netjavgrown.comjavhard.netjavhard.orgjavhaven.com	javhd.com	javhd.projavhd3x.comjavhdfree.netjavhdonline.comjavhdporn.comjavhdporn.net
 javher.comjavheroine.com	javhub.me
 javhub.netjavjack.comjavjunkies.comjavlands.netjavleak.comjavlibrary.comjavmany.comjavmenu.com	javmix.tvjavmodel.comjavmost.comjavmost.xyzjavmuch.com	javout.cojavplatform.comjavporn.tech
-javporn.wsjavprice.com	javpub.mejavpush.com	javqd.comjavrave.clubjavscat.netjavscatsex.comjavscatting.comjavscreens.com
+javporn.wsjavprice.comjavprime.net	javpub.mejavpush.com	javqd.comjavrave.clubjavscat.netjavscatsex.comjavscatting.comjavscreens.com
 javseen.tvjavsex.asia	javsex.to	javsin.tvjavspanking.com
 javtag.netjavtasty.comjavtorrent.mejavtorrent.tkjavtrust.comjavtube.comjavtube.netjavvids.comjavynow.com	jdavsp.pwjdforum.netjenporno.czjerk-porn.comjerkdude.comjerkmate.comjerkmate.tvjerkmatelive.orgjerkofftocelebs.com	jgg18.xyzjiayoulu.com
 jilhub.comjinnaju.comjinsilubanzhao.comjiuse904.comjiuse905.comjiuzhouyihuo.comjiyou520.comjizzboom.comjizzbunker.comjizzhut.com
 jizzle.comjizzonline.comjjaaxyz.comjjdong7.comjjgirls.comjkforum.netjodic-forum.orgjohnpersons.comjoiasmr.comjokerlu1.ccjokerlu1.info
-joyclub.dejoylovedolls.comjoyourself.comjoysporn.comjpav.usjpboy1069.netjpg4.biz	jpg4.infojpg4.pw
+joyclub.dejoylovedolls.comjoyourself.comjoysporn.comjpav.usjpavcom.comjpboy1069.netjpg4.biz	jpg4.infojpg4.pw
 jpg4us.netjtube.spacejuggsjoy.comjuicytwink.comjulesjordan.comjuliamovies.comjusmynote.wordpress.comjust.xxxjustfamilyporn.comjustfullporn.org
 justhd.xyzjustindianporn.mejustlesbianpussy.comjustnudepic.comjustpicsplease.comjustporn.comjustporn.linkjustporno.esjustporno.sexjustporno.tvjustswallows.comjustusboys.com
 jwkcgd.xyz
@@ -9091,7 +9230,7 @@ kompoz.comkompoz2.comkonachan.netkonachan.wjcodes.comkor
 ksyp10.comkum.comkundun1069.comkusugurizanmai.com
 la-mama.rulacomics.org
 ladies.comladybaba.netladyboygold.comladyboygold.euladyboypornonly.comlanasbigboobs.comlangsuirs.comlaowang.viplargecamtube.comlargeporntube.comlatinaabuse.comlatintubeporn.comlazymike.comlbfmaddiction.com
-lbtube.comlcgirls.comleakedmeat.comleaksmodels.comleakxxx.comlenkino.xxxleporno.orglepornochaud.comlepornofrais.comlesbian8.comlesbianpics.orglesbianpornvideos.comlesbiansubmission.comlesboerotica.netletmejerk.comletmejerk.funletsfuckme.netletsjerk.cclevelsex.comlewdthots.comlewdvrgames.comlewdweb.net
+lbtube.comlcgirls.comleakedmeat.comleaksmodels.comleakxxx.comlemoncams.comlenkino.xxxleporno.orglepornochaud.comlepornofrais.comlesbian8.comlesbianpics.orglesbianpornvideos.comlesbiansubmission.comlesboerotica.netletmejerk.comletmejerk.funletsdoeit.comletsfuckme.netletsjerk.cclevelsex.comlewdthots.comlewdvrgames.comlewdweb.net
 lezpoo.comlgbtq.gamesliboggirls.netlifeselector.comlightxxxtube.comlihksnap.comlikeseiyu.comliketruyen.netlikuoo.videolilhumpers.comlilith-soft.comlimer.tw
 limertw.cclimeteensex.comlingeriepornonly.com
 link69.comlinkjunkies.comlinkshit.comliterotica.comlittleasians.comlittlesexdolls.comlivecamclips.comlivejasmin.comlivejasminbabes.netlivemodels.coliveporngirls.comliveprivates.comlivesex.comlivesexasian.com
@@ -9101,7 +9240,8 @@ lolita.betlollipopescorts.comlondonhotescort.comlonestarnaught
 lspimg.com	lss55.comlubetube.comlucahmelayu.clublucasentertainment.com
 lululu.one
 luoli.infolupoporno.comluscious.netlushstories.comlustery.comlusthero.comlustteens.netlustylist.com
-luvmov.comluxuretv.comluxuretv.funm5ir5np1.shopmachigle-sp.commachogaytube.commachosaonatural.com.brmachotube.tvmadchensex.commadonna-av.commadpeople.netmadthumbs.commadvagina.commagicmovies.commahajantech.commaileoch.commalayporn.sitemalayporn.spacemalaypornhub.commallandrinhas.netmalvastudios.commamacitaz.commanga-mill.commanga18.artmangahasu.semangahentai.memangahome.commangoporn.net
+luvmov.comluxuretv.comluxuretv.fun
+lxxlxx.comm5ir5np1.shopmachigle-sp.commachogaytube.commachosaonatural.com.brmachotube.tvmadchensex.commadonna-av.commadpeople.netmadthumbs.commadvagina.commagicmovies.commahajantech.commaileoch.commalayporn.sitemalayporn.spacemalaypornhub.commallandrinhas.netmalvastudios.commamacitaz.commanga-mill.commanga18.artmangahasu.semangahentai.memangahome.commangoporn.net
 manhub.commanhunt.netmanhuntdaily.commanhwa24h.commanhwahentai.memanporn.xxxmansurfer.commantochichi.commanurefetish.commanytoon.commanyvids.commarranazas.commasalabin.commasaladesi.commasalaseen.netmassagerepublic.commat6tube.commature-tube.sexy	mature.nlmatureporner.commaturepornonly.commaturescam.commaturesinhd.commaturetube.commaturewomenanal.com	maya5.netmcstories.commd.hkgolden.commdlf.xyz
 me-gay.commediasama.commedow.ru
 meendo.commeetandfuck.gamesmeetandfuckgames.commegacamz.commegahdporno.netmegapornfreehd.commegaporno.com.brmeilleurpornos.commeitula.netmelonbooks.co.jpmelonstube.commeme111.commen.com	men18.netmenatplay.commengnan.shop
@@ -9116,12 +9256,12 @@ moapi.sitemoapi1.clubmoapi1.onlinemobilepornmovies.commo
 moefuns.co
 moeimg.net
 moemax.net
-moez-m.com	mofos.commofosex.commofosnetwork.com	mom50.commomami18.livedoor.blogmomon-ga.commomoniji.commomsbangteens.commomsexypics.commomsgiveass.commomsteachsex.commomsteachsex.infomomtarts3d.commomtube.clubmoneyswift.onlinemonstercockland.commonstersexporn.netmornporn.commostpopularpornsites.commotherless.commotherporn.ovhmoviesarena.commoviesfree4u.xyzmoviesneek.commoxing.mobimplstudios.commrchewsasianbeaver.com
+moez-m.com	mofos.commofosex.commofosnetwork.com	mom50.commomami18.livedoor.blogmomon-ga.commomoniji.commomsbangteens.commomsexypics.commomsgiveass.commomsteachsex.commomsteachsex.infomomtarts3d.commomtube.clubmoneyswift.onlinemonstercockland.commonstersexporn.netmornporn.commostpopularpornsites.commotherless.commotherporn.ovhmoviesarena.commoviesfree4u.xyzmoviesneek.commplstudios.commrchewsasianbeaver.com
 mrcong.commrdeepfakes.commrlivecam.com
 mrloli.commrpinks.commrporngeek.commrpornlive.commrssiren.com
 mrskin.commrvideosdesexo.xxxmt-ssul1.commu6bce1c.xyzmuchohentai.commulheresafoder.com
 mult34.commultipornfor.memultporn.netmundomais.com.brmuryouav.netmusclegirlflix.commuycerdas.xxxmuyzorras.commvideoporno.xxxmwhentai.netmy3dhentai.commyamateurgirls.netmyanmar-porn.commyavfun.com
-myavok.commyavsuper.commyboylove.commybukkakeporn.com
+myavok.commyavsuper.commybabehotz.commyboylove.commybukkakeporn.com
 mycams.commycartoonsexgames.commyclitgames.commycomicsxxx.commydirtyhobby.commyfappening.orgmyfavoritearcade.commyfistingporn.commyfreeblack.commyfreecams.commyfreepaysite.commyfreeporngames.commyhentaicomics.commyhentaigallery.commylf.com
 mylust.commymasturbators.commyminisexdoll.commymusclevideo.commypornads.commypornbookmarks.commyporngay.commypornhere.com
 myporno.czmyporno.photosmypornolab.clickmypornstarbook.netmypornvid.funmypornwap.funmyrimmingporn.commysexgames.commysexygfs.commytrannycams.commytving.com	mywife.ccmyxvids.commyxxgirl.comn15zev3w.shopnaijauncut.comnailedhard.comnaizitv.topnakadashi.tonaked-girls.me	naked.comnakedasiansex.comnakedmodelsxxx.comnakednews.comnamethatporn.comnamethatpornad.comnan-net.comnanonamad.comnaoconto.comnapiszex.comnarumiya.xii.jpnasty.singlesnaughty.comnaughtyamerica.comnaughtyblog.orgnaughtygamesource.comnaughtyhentai.biznaughtymachinima.comnaughtysophie.comneedgayporn.comnekora.main.jpnekoxxx.comnenitas.clubneotokyo.supertop-100.comnerdnudes.comnesaporn.comnesaporn.mobineswangy.netnetarabic.comnetfapx.comnetflav.comnetpornsex.comnetpornsex.netnetvideogirls.comneuerporno.comnew-akiba.comnew-jero.netnew-redtube.comnew3dcomics.comnewbienudes.comnewbrazz.comnewhentai.orgnewlineporn.comnewsensations.comnewsextv.comnewsexwap.comnewsexxxx.comnhentai.com
@@ -9154,7 +9294,7 @@ porkahd.coporn-bokep.comporn-comic.comporn-discounts.xxx
 porn62.com	porn7.net	porn7.xxx
 porn91.org	porn93.ccpornachi.compornacho.compornadoo.com
 pornaf.compornaffected.compornagent.xyzpornaroma.compornbest.orgpornbozz.compornbraze.compornbrb.compornburger.compornburst.xxxporncana.comporncoil.comporncomixonline.netporncore.netporncrash.comporndeepfake.netporndex.comporndiamond.comporndig.comporndigger.meporndiscount.orgporndiscounts.comporndish.comporndisk.compornditos.comporndoe.comporndoepremium.comporndork.com
-porndr.comporndroids.compornelephant.compornenix.com	porner.tvpornerbros.compornexpress.netpornfidelity.compornfind.orgpornfinder.bizpornfoolery.com	pornfu.tvpornfuck.netpornfuror.comporngames.clubporngames.gamesporngames.tvporngeek.comporngem.comporngladiator.com
+porndr.comporndroids.compornelephant.compornenix.com	porner.tvpornerbros.compornexpress.netpornfactory.infopornfidelity.compornfind.orgpornfinder.bizpornfoolery.com	pornfu.tvpornfuck.netpornfuror.comporngames.clubporngames.gamesporngames.tvporngeek.comporngem.comporngladiator.com
 porngo.comporngo.tubeporngogo.supertop-100.comporngrabbz.compornguide.blogpornguz.compornhail.compornhat.compornhat.one
 pornhat.tv
 pornhd.compornhd3x.tvpornhd8k.netpornhdtube.tvpornhdvideos.tvpornheed.compornheli.compornhits.compornhoho.compornhost.compornhub00.compornhubdeutsch.netpornhubs.videopornhubselect.compornhuub.xyzpornicom.com
@@ -9173,7 +9313,7 @@ ppe.lawyer	pplah.comprastitutki.rupremiumbooty.compremium
 prpops.comptapjmp.comptt.sexpublic-sex-porn.compublicagentxxx.compublicpornvideo.compublicsexhub.compunishbang.compunishworld.compurenudism.compuresexmovies.compuretaboo.compurextc.compuripuriunkomura.com
 pururin.topussy-pics.netpussy3dporn.compussymomsex.compussyporntubes.compussysexgames.compussyshine.infopussyspace.computinho.netpvt.sexy
 pyhapp.comqatarescortsvip.com
-qckprn.comqdiehzz7.meqdmomentum.com
+qckprn.comqdiehzz7.meqdmomentum.com	qinav.com
 qingse.oneqkjuyet.comqmov.comqmov.netqmttqg3k.me
 qombol.com	qorno.com
 qporno.xxxquickiepage.comqumingwz.comr-new-sale.blog.jpr18.clickme.netr18.com	r18av.com	r18lu.comr34porn.netrabbitscams.comrabbitscams.sexrabbitsreviews.comragnaporn.comrajwaphq.comrandyblue.comrapefilms.netrapetube.merat.xxxratedgross.comreachporn.comreal-homemade-movies.comreal-thaipussy.comrealdoll.comrealgfporn.comrealitykings.comreallesbianexposed.comrealpornclip.comrealsexdoll.comrealzoomovies.comrecelebrity.comredamateurtube.comredfaptube.comredgifs.comredhdtube.xxxredlightcenter.comredmatureporn.comredporn.xxxredporno.czredsexhub.comredtub3xxx.comredtube.blogredtube.comredtube.com.brredtube9.comredtubepremium.comredwap-xxx.com	redwap.me
@@ -9184,8 +9324,8 @@ rssing.comrude.comrukoebxx.comrule34.asia	rule34.us
 rule34.xxx
 rule34.xyzrule34h.comrule34pornvids.comrule34video.comruleporn.comrumporn.comrundf665.cyourunporn.comrunwayescorts.comrushporn.onlinerushporn.xxxrussianrape.orgruvideos.nets-books.coms8ds5gfm.xyzsabuibo.net
 sacduc.comsacredhentai.comsafebooru.orgsakuralive.comsambaporno.comsankakucomplex.comsapphicerotica.comsapphicpornonly.comsarapbabe.comsatan18av.com
-satnym.comsavitabhabhi.comsavitabhabhi.vipsavitahd.netscandalplanet.comscat-japan.comscat-shop.netscatfap.comscatfinder.com
-scathd.comscatkings.comscatnetwork.comscatshop.comscatsite.comscatvids.clubscatville.comscharferporno.comscifisex.net
+satnym.comsavitabhabhi.comsavitabhabhi.vipsavitahd.netscandalplanet.comscat-enema.comscat-japan.comscat-shop.netscatfap.comscatfinder.com
+scathd.comscatkings.comscatnetwork.comscatolo-guromania.comscatshop.comscatsite.comscatvids.clubscatville.comscharferporno.comscifisex.net
 scolle.netseancody.comseaporn.org
 search.xxxsecret-flirt-hub.comsecretbabes.co.uksee.xxxseedmov18.comseehorsepenis.comseemygf.comseemyporn.comsego8.ccsego8.co	sego8.xyzsehuatang.netseiroganmania.com
 seksmet.nlsekswebsite.nlselectanescort.comselectyourgame.comselfloversworld.comseneporno.comsenpaiheat.comsensualgirls.orgsensualmothers.comsensueel.netsenzuritv.net
@@ -9219,7 +9359,7 @@ sub147.comsublimedirectory.comsubmityourflicks.comsucksex.com
 supjav.com	suxib.comsvscomics.asiasvscomics.comsvsgames.org	swag.liveswapsmut.comsweetadult-tube.comsweetmlif.netsweetsext.comsweetsinner.comswegold.comswingerpornfun.comswingers.theadulthub.comswpr.livedoor.blog
 sxarab.topsxshentai.com
 sxyprn.comsyzbj36.xyzt66y.comtabooporn.tvtabooporns.comtabootube.xxxtabustudios.cotacamateurs.com	taiav.comtaiwansex.tw
-taknai.comtaleofthenight.comtaradinhos.comtastyblacks.comtati-log.com
+taknai.comtaleofthenight.comtanflix.comtaradinhos.comtastyblacks.comtati-log.com
 taxi69.comtaxidrivermovie.comtbib.org	tblop.comtbr.tangbr.nettctsx28d.xyzteacherfucksteens.comteachmyass.comteamskeet.comteatroporno.comteen-girl.netteen-lover.netteen-sexy.comteen3x.mobiteenagefucking.comteendreams.comteenporngallery.netteenporntube.xxxteenpornvideo.xxxteenport.comteensloveanal.comteensloveporn.netteensnow.comteensnow.linkteentube.proteenwebcamtube.comteeztube.comtelegram-porn.comterrlficdates.comtettediferro.ittgirlcentral.comtgirlpostop.comtgp6.com
 tgtube.comtgutube.comthai-xxx.com
 thai69.comthaicherry.comthaichix.comthaicuties.comthaigirls.netthaigirls100.nettheav.ccthebestfetishsites.comthebondagefiles.comthecamdude.comthecandidbay.comthecandidforum-voyeur.rutheclubprive.comthecuckold.comthefappening.prothefappening.wikithefappeningblog.com
@@ -9237,7 +9377,7 @@ tranny.onetrannygem.comtrannytube.tvtrannyvideosxxx.comt
 tsthai.comtsumino.comtsundora.comtsuradou.noonvob.com	tsyum.comtube-pornomovs.comtube-sex-videos.comtube.bz
 tube18.sextube188.comtube2011.comtube2012.comtube2017.comtube4world.com	tube8.comtube8.frtube8zoo.comtubebdsm.comtubecaptain.comtubedna.comtubedupe.comtubeenema.comtubegalore.comtubegold.xxxtubelombia.nettubemature.tvtubeorigin.comtubepatrol.orgtubepornclassic.comtubepornstars.comtubepornup.comtubesafari.com
 tubesex.metubeshemales.comtubetria.mobitubetubetube.com	tubev.sextubevintageporn.comtubexclips.comtubinge.com
-tubous.comtubsexer.comtubxporn.comtubxporn.xxxtufos.com.br	tukif.comturbogvideos.comtwavking.comtwcomix.comtwhentai.comtwifuli.comtwinkboyfriends.tvtwinkspornos.comtwinktube.sexytwinkybf.comtwistys.comtwitcomike.jp
+tubous.comtubsexer.comtubxporn.comtubxporn.xxxtufos.com.br	tukif.comturbogvideos.com	tushy.comtwavking.comtwcomix.comtwhentai.comtwifuli.comtwinkboyfriends.tvtwinkspornos.comtwinktube.sexytwinkybf.comtwistys.comtwitcomike.jp
 twlegs.comtwoo.com
 tx5254.comtx5ptbp7.comtxqzz34r.com
 txvlog.comtxxx.com	txxx1.comtyler-brown.comtyms2022.comtytng189.comtytporno.onlineu9a9.com	uflash.tvuguisupapa.net
@@ -9245,7 +9385,7 @@ uhairy.com	uhtube.meujapanesesex.comultradonkey.comultray
 uncams.comuncensoredhentai.xxxunderhentai.netuninhibitedcomix.comunkoscene.comunusualporn.netupdatetube.comupjav.cc
 uplust.comupornia.com
 uporno.xxxura-akiba.jp
-urasma.comuriminzokkiri.comurlgalleries.neturukawa.comuselessjunk.comuusexdoll.comuusextoy.comuxxxporn.com	v7hds.comvagabundasdoorkut.net	vagina.nlvaginacontest.comvbejeyv.shopvenezporn.com
+urasma.comuriminzokkiri.comurlgalleries.neturukawa.comuselessjunk.comuusexdoll.comuusextoy.comuxxxporn.com	v7hds.comvagabundasdoorkut.net	vagina.nlvaginacontest.comvbejeyv.shop	vdoav.comvenezporn.com
 veporn.comvepornhd.clubveporno.netvercomicsporno.xxxverhentai.tvverpeliculasporno.gratisvervesex.comveryladyboy.comvgg8.comviddeo-jav.netvideo-one.comvideo.fc2.comvideo01.orgvideodesexo.blogvideoleak.mevideos6.comvideosamadoresreais.comvideosdemadurasx.comvideosdepornografia.blog.brvideosdesexo.br.comvideosdesexo.com.brvideosection.comvideoskaseros.comvideosporno.com.brvideostravestis.xxxvideosxxxnicaragua.topvideoxxxporn.biz
 vidown.comvidspornoduro.comviet.sex
 viet69.devviet69.linkviet69.newsviewgals.comvikiporn.comvintage-erotica-forum.comvintagexxxfilms.comvipergirls.tovipissy.comvipstudiocali.comviralcum.comviralporn.comvirginpornlinks.comvirtualpartyworld.comvirtualrealgay.comvirtualrealporn.comvirtualrealtrans.comvirtualtaboo.comvitukali.comvivaxnxx.com	vixen.com
@@ -9282,7 +9422,8 @@ xxgasm.comxxindianporn.com
 xxmovz.comxxnxx-porn.comxxnxx-sex.comxxvideo.mobixxvideos.xxxxxvideoss.org
 xxvids.netxxx-blog.toxxx-fap.comxxx-files.orgxxx-porn-fuck.comxxx-porn.infoxxx-video.cfdxxx-videos.tvxxx-ways.comxxx.comxxx.xxxxxx18teen.netxxx2022.comxxx2023.comxxx4hindi.comxxxaporn.comxxxassfuck.com
 xxxbit.comxxxbolivianas.comxxxbule.comxxxbullet.comxxxbunker.comxxxccc4.comxxxclub.clubxxxdinotube.comxxxfile.orgxxxfiles.comxxxflare.comxxxforte.comxxxfree.watchxxxfuckmom.comxxxgames.bizxxxgames.gamesxxxgirls88.com	xxxhd.proxxxhdvideo.mobixxxhentai.netxxxhub123.comxxxhubvideos.comxxxifuck.comxxxindianporn2.comxxxindiantv.comxxxjapanesemovies.comxxxland.netxxxlucah.comxxxmomporn.tubexxxmovies.pro
-xxxner.com	xxxnxx.mexxxpenguin.comxxxpicz.comxxxporn123.comxxxporndig.comxxxpornmovs.comxxxpornotuber.comxxxpornozinho.blog.brxxxpornzeed.comxxxreal.comxxxscenes.netxxxsexanal.comxxxsexcinema.comxxxsexzoo.comxxxshame.comxxxstreams.euxxxstreams.orgxxxstreams.watchxxxtubeasian.netxxxtubedot.comxxxtubegf.comxxxtubenote.comxxxtubeset.comxxxtubezoo.com	xxxv.mobixxxvideo.blog.brxxxvideo.vipxxxvideor.comxxxvideos247.comxxxvideoszoo.comxxxvidso.comxxxvirtualworld.comxxxvogue.netxxxxvideo.unoxxxymovies.comxxxyoungxxx.comxzone.toxzxxporn.com
+xxxner.com	xxxnxx.mexxxpenguin.comxxxpicz.comxxxporn123.comxxxporndig.comxxxpornmovs.comxxxpornotuber.comxxxpornozinho.blog.brxxxpornzeed.comxxxreal.comxxxscenes.netxxxsexanal.comxxxsexcinema.comxxxsexzoo.comxxxshame.comxxxstreams.euxxxstreams.orgxxxstreams.watchxxxtubeasian.netxxxtubedot.comxxxtubegf.comxxxtubenote.comxxxtubeset.comxxxtubezoo.com	xxxv.mobixxxvideo.blog.brxxxvideo.vipxxxvideor.comxxxvideos247.comxxxvideoszoo.comxxxvidso.comxxxvirtualworld.comxxxvogue.net
+xxxwow.netxxxxvideo.unoxxxymovies.comxxxyoungxxx.comxzone.toxzxxporn.com
 yabang.org
 yaburi.men	yaddal.tvyadori.club
 yaeby.infoyamoon.clubyande.reyaoimangaonline.comyaoiotaku.comyaoyaomumu.comyaptube.comyasarang.netyatong.infoyavtube.comyazhouse8.comyepporn.comyes.xxxyespornplease.comyespornpleasexxx.comyeswegays.comyeyuehuachao11.comyeyuehuachao12.comyeyuehuachao13.com
@@ -9680,12 +9821,10 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn#search.itunes.apple.com
 cn1%sf-api-token-service.itunes.apple.com
 cnsp.itunes.apple.com
-cn&stocks-sparkline.apple.com
 cn+streamingaudio.itunes.apple.com
 cnsu.itunes.apple.com
 cn!sync.itunes.apple.com
 cn upp.itunes.apple.com
-cn"weather-data.apple.com
 cn#^a[1-5]\.mzstatic\.com$
 cn0$^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
 cn9-^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
@@ -9699,10 +9838,11 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cna5.mzstatic.com
 cn, adcdownload.apple.com.akadns.net
 cn!adcdownload.apple.com
+cn."app-site-association.cdn-apple.com
 cnappldnld.apple.com
 cn"appldnld.g.aaplimg.com
+cn!appleid.cdn-apple.com
 cnapps.mzstatic.com
-cn#api-cn.apple-mapkit.com
 cn$cdn-cn1.apple-mapkit.com
 cn$cdn-cn2.apple-mapkit.com
 cn$cdn-cn3.apple-mapkit.com
@@ -9715,10 +9855,10 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn!cds-cdn.v.aaplimg.com
 cn$cds.apple.com.akadns.net
 cncds.apple.com
+cncdsassets.apple.com
 cn/#cl1-cdn.origin-apple.com.akadns.net
 cncl1.apple.com
 cncl2-cn.apple.com
-cn<0cl2.apple.com.edgekey.net.globalredir.akadns.net
 cncl2.apple.com
 cn/#cl3-cdn.origin-apple.com.akadns.net
 cncl3.apple.com
@@ -9732,13 +9872,12 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn."configuration.apple.com.akadns.net
 cn#configuration.apple.com
 cncstat.apple.com
+cncstat.cdn-apple.com
 cn."dd-cdn.origin-apple.com.akadns.net
 cn(download.developer.apple.com
 cngs-loc-cn.apple.com
 cngs-loc.apple.com
 cn%gsp10-ssl-cn.ls.apple.com
-cn!gsp11-cn.ls.apple.com
-cn!gsp12-cn.ls.apple.com
 cn!gsp13-cn.ls.apple.com
 cnC7gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 cn, gsp4-cn.ls.apple.com.edgekey.net
@@ -9751,6 +9890,8 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn#gspe21-ssl.ls.apple.com
 cngspe21.ls.apple.com
 cn#gspe35-ssl.ls.apple.com
+cn+guzzoni-apple-com.v.aaplimg.com
+cnguzzoni.apple.com
 cniadsdk.apple.com
 cn, icloud-cdn.icloud.com.akadns.net
 cn icloud.cdn-apple.com
@@ -9764,6 +9905,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn3'init-s01st-lb.push-apple.com.akadns.net
 cn%init-s01st.push.apple.com
 cn(iosapps.itunes.g.aaplimg.com
+cnipcdn.apple.com
 cniphone-ld.apple.com
 cn is1-ssl.mzstatic.com
 cnis1.mzstatic.com
@@ -9782,15 +9924,20 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn+mesu-china.apple.com.akadns.net
 cnmesu.apple.com
 cnmusic.apple.com
+cn(ocsp-lb.apple.com.akadns.net
+cnocsp.apple.com
+cnocsp2.apple.com
 cnoscdn.apple.com
 cn-!oscdn.origin-apple.com.akadns.net
 cnpancake.apple.com
 cn, pancake.cdn-apple.com.akadns.net
-cnphobos.apple.com
 cn1%prod-support.apple-support.akadns.net
+cn&publicassets.cdn-apple.com
 cn#reserve-prime.apple.com
 cns.mzstatic.com
+cn(smp-device-content.apple.com
 cn4(stocks-sparkline-lb.apple.com.akadns.net
+cn&stocks-sparkline.apple.com
 cn>2store.apple.com.edgekey.net.globalredir.akadns.net
 cn'store.apple.com.edgekey.net
 cnstore.apple.com
@@ -9798,6 +9945,7 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cn+store.storeimages.cdn-apple.com
 cn2&support-china.apple-support.akadns.net
 cnsupport.apple.com
+cnswallow.apple.com
 cn."swcatalog-cdn.apple.com.akadns.net
 cnswcatalog.apple.com
 cnswcdn.apple.com
@@ -9808,11 +9956,14 @@ touchid.tvtouchid.wangtracking-location.comtruedepth3d.com
 cnswscan.apple.com
 cn1%updates-http.cdn-apple.com.akadns.net
 cn&updates-http.cdn-apple.com
+cn!updates.cdn-apple.com
 cnvalid.apple.com
 cn-!valid.origin-apple.com.akadns.net
+cn"weather-data.apple.com
 cn<0www.apple.com.edgekey.net.globalredir.akadns.net
 cn%www.apple.com.edgekey.net
 cnwww.apple.com
+cnxp.apple.com
 cnasus.comasus.com.cn
 cnatlassian.combitbucket.iobitbucket.orgstatuspage.ioaccbusiness.com
 atandt.comatt-bundles.comatt-japan.comatt-mail.comatt-promotions.comatt-rsvp.comatt.cn
@@ -9922,7 +10073,7 @@ gstatic.cn
 cngstatic.comgstaticcnapps.cn
 cn
 gsuite.com
-gv.comgvt0.comgvt1.comgvt2.comgvt3.comgvt5.comgvt6.comgvt7.comgvt9.comhdrplusdata.orghindiweb.comhowtogetmo.co.ukhtml5rocks.comhwgo.comiamremarkable.orgigoogle.comimpermium.com
+gv.comgvt0.comgvt1.comgvt2.comgvt3.comgvt5.comgvt6.comgvt7.comgvt9.comhaplorrhini.comhdrplusdata.orghindiweb.comhowtogetmo.co.ukhtml5rocks.comhwgo.comiamremarkable.orgigoogle.comimpermium.comitasoftware.com
 j2objc.orgjibemobile.comkeyhole.comkeytransparency.comkeytransparency.fookeytransparency.orglanternal.comlike.commadewithcode.commaterial.iomdialog.commeet.newmfg-inspector.commobileview.pagemoodstocks.comnear.bynest.comnomulus.foo
 oauthz.comon.hereon2.comonefifteen.netonefifteen.orgoneworldmanystories.comopenthread.ioopenweave.ioorbitera.com	page.linkpagespeedmobilizer.compageview.mobipanoramio.compartylikeits1986.orgpaxlicense.org
 picasa.compicasaweb.compicasaweb.netpicasaweb.org
@@ -9938,26 +10089,66 @@ webrtc.orgweltweitwachsen.dewhatbrowser.orgwidevine.comw
 cn265.com
 cn2mdn-cn.net
 cn2mdn.net
+cn!accounts.googlers.com
+cn$accounts.xn--9trs65b.com
+cn&accounts.xn--ggle-55da.com
 cnadmob-cn.com
+cn adservice.google.com
+cnai.ytimg.com
 cn"app-measurement-cn.com
 cnapp-measurement.com
+cnapps5.oingo.com
+cn#avail.googleflights.net
 cn beacons.gcp.gvt2.com
 cnbeacons.gvt2.com
 cnbeacons2.gvt2.com
 cnbeacons3.gvt2.com
+cn"borgmon.adz.google.com
 cnc.admob.com
+cn(c.android.clients.google.com
+cn, cache-management-prod.google.com
+cn!cache.pack.google.com
 cncheckin.gstatic.com
+cn clickserve.cc-dt.com
 cn%clickserve.dartsearch.net
+cn%clickserver.googleads.com
 cn)clientservices.googleapis.com
+cncn.widevine.com
+cn)cnappinstall.googleadapis.com
 cn)connectivitycheck.gstatic.com
+cn$content.googleadapis.com
+cncorp.google.com
+cncorp.googleapis.com
+cn0$crashlyticsreports-pa.googleapis.com
+cncsi.gstatic.com
 cndartsearch-cn.net
+cn$dg-meta.video.google.com
+cn"distribution.qatp1.net
+cn"distribution.qcpp1.net
+cn"distribution.qpdp1.net
+cndl.google.com
+cndl.l.google.com
 cndoubleclick-cn.net
 cndoubleclick.net
+cn$download.mlcc.google.com
+cndownload.qatp1.net
+cndownload.qcpp1.net
+cndownload.qpdp1.net
+cn*download.tensorflow.google.com
+cn+emmapplecodevice.googleapis.com
 cn-!firebase-settings.crashlytics.com
+cn&fontfiles.googleadapis.com
+cn$fontfiles.googleapis.com
+cn"fonts.googleadapis.com
 cn fonts.googleapis.com
 cnfonts.gstatic.com
+cng0.gstatic.com
 cng1.gstatic.com
 cng2.gstatic.com
+cng3.gstatic.com
+cngcpnode.com
+cngonglchuangl.net
+cngongyichuangyi.net
 cn#google-analytics-cn.com
 cn google-analytics.com
 cn#googleadservices-cn.com
@@ -9968,23 +10159,91 @@ webrtc.orgweltweitwachsen.dewhatbrowser.orgwidevine.comw
 cn googleflights-cn.net
 cn!googleoptimize-cn.com
 cngoogleoptimize.com
+cngoogleplex.com
 cn$googlesyndication-cn.com
 cn!googlesyndication.com
 cn#googletagmanager-cn.com
+cn googletagmanager.com
 cn$googletagservices-cn.com
 cn!googletagservices.com
 cn)googletraveladservices-cn.com
+cn&googletraveladservices.com
 cngooglevads-cn.com
+cngoto.google.com
+cngstatic-cn.com
+cn%gstaticadssl.l.google.com
+cngtm.oasisfeng.com
 cngvt1-cn.com
 cngvt2-cn.com
 cn!imasdk.googleapis.com
+cn monitoring.qatp1.net
+cn monitoring.qcpp1.net
+cn monitoring.qpdp1.net
+cn, pagead-googlehosted.l.google.com
+cn0$performanceparameters.googleapis.com
+cnplay.1ucrs.com
+cn'prod-controlbe.floonet.goog
+cn$prod-databe.floonet.goog
+cn$prod.databe.floonet.goog
+cnqagpublic.qatp1.net
+cnqagpublic.qcpp1.net
+cnqagpublic.qpdp1.net
+cnqgadmin.qatp1.net
+cnqgadmin.qcpp1.net
+cnqgadmin.qpdp1.net
+cn!qpx.googleflights.net
+cnqualysapi.qatp1.net
+cnqualysapi.qcpp1.net
+cnqualysapi.qpdp1.net
+cn!qualysguard.qatp1.net
+cn!qualysguard.qcpp1.net
+cn!qualysguard.qpdp1.net
 cnrecaptcha.net
+cnredirector.bdn.dev
+cn(redirector.c.chat.google.com
+cn(redirector.c.docs.google.com
+cn)redirector.c.drive.google.com
+cn(redirector.c.mail.google.com
+cn(redirector.c.pack.google.com
+cn(redirector.c.play.google.com
+cn-!redirector.c.youtubeeducation.com
+cn&redirector.gcpcdn.gvt1.com
 cnredirector.gvt1.com
+cn, redirector.offline-maps.gvt1.com
+cn$redirector.snap.gvt1.com
+cn*redirector.xn--ngstr-lra8j.com
 cn(regioninfo-pa.googleapis.com
 cn'safebrowsing.googleapis.com
+cn"scanservice1.qatp1.net
+cn"scanservice1.qcpp1.net
+cn"scanservice1.qpdp1.net
+cnservice.urchin.com
+cn$settings.xn--9trs65b.com
+cn-!ssl-google-analytics.l.google.com
 cnssl.gstatic.com
+cn*staging-controlbe.floonet.goog
+cn'staging-databe.floonet.goog
+cn0$staging-regioninfo-pa.googleapis.com
+cn'staging.databe.floonet.goog
+cnsupport.1ucrs.com
+cntac.googleapis.com
+cn%test.bugs-qa.chromium.org
+cn&test.gbugs-qa.chromium.org
+cntools.google.com
+cntools.l.google.com
+cnup.corp.goog
+cnup.gcp.googlers.com
+cn"update.crashlytics.com
 cn!update.googleapis.com
+cnwear.googleapis.com
+cn-!www-google-analytics.l.google.com
+cn-!www-googletagmanager.l.google.com
+cn"www.destinationurl.com
+cn www.googleadapis.com
 cnwww.gstatic.com
+cnwww.pxcc.com
+cnxn--9kr7l.com
+cnxn--flw351e.com
 cnhetzner.cloudhetzner.com
 hetzner.deyour-server.de
 cht.com.twchtf.org.tw	emome.net	hinet.net	xuite.netcsifund.orghkbn.com.hkhkbn.net
@@ -10356,7 +10615,7 @@ rea.global
 rea.iorea.techrealcommercial.com.aurealestate.com.aurealtor.comreastatic.netrumah123.comsmartexpos.comsmartline.com.auspacely.com.ausquarefoot.com.hkthinkofliving.comscenesource.me	scnsrc.mesbux.com.mysbuxcard.comstarbucks-stars.comstarbucks.adstarbucks.atstarbucks.bestarbucks.bgstarbucks.castarbucks.chstarbucks.co.idstarbucks.co.jpstarbucks.co.nzstarbucks.co.thstarbucks.co.ukstarbucks.co.zastarbucks.comstarbucks.com.arstarbucks.com.bnstarbucks.com.cn
 cnstarbucks.com.costarbucks.com.cystarbucks.com.grstarbucks.com.hkstarbucks.com.khstarbucks.com.kzstarbucks.com.mxstarbucks.com.mystarbucks.com.pestarbucks.com.sgstarbucks.com.trstarbucks.com.uystarbucks.destarbucks.dkstarbucks.esstarbucks.frstarbucks.hustarbucks.iestarbucks.instarbucks.itstarbucks.nlstarbucks.nostarbucks.phstarbucks.plstarbucks.ptstarbucks.rsstarbucks.rustarbucks.sestarbucks.ttstarbucks.vnstarbucksathome.comstarbucksavie.castarbuckscard.phstarbuckscardb2b.comstarbuckscoffee.czstarbuckscoffeegear.com starbuckscoffeegearstore.comstarbucksforlife.castarbucksforlife.comstarbuckspoq.comstarbucksreserve.comstarbucksrewardsstarland.ca starbucksrewardsstarland.comstarbucksromania.rostarbucksrtd.comstarbucksslovakia.skstarbuckssummergame.castarbuckssummergame.com
 tsquare.tv	windy.comxdty.org	xingrz.me
-‘“
+–
 GEOLOCATION-CN
 123pan.com
 42r.cn
@@ -10518,14 +10777,16 @@ yxhhdl.comacfun.cnaixifan.com apilog-web.acfun.cn
 ads
 acplay.netdandanplay.com
 ali213.net
-acg.tvacgvideo.com
-b23.tvbiliapi.combiliapi.netbilibili.combilibiligame.netbilicdn1.combilicdn2.combilicdn3.combilicdn4.combilicdn5.combiligame.combiligame.netbilivideo.combilivideo.cn	hdslb.comim9.com
-mincdn.com
-biligo.com$ upos-hz-mirrorakam.akamaized.netbiji.com
+acg.tvacgvideo.comanimetamashi.cnanimetamashi.com
+anitama.cnanitama.net
+b23.tv	bigfun.cn	bili22.cnbili2233.cn	bili23.cn	bili33.cnbiliapi.combiliapi.netbilibili.ccbilibili.combilibili.netbilibili.tvbilibiligame.cnbilibiligame.cobilibiligame.netbilibilipay.cnbilibilipay.combilicdn1.combilicdn2.combilicdn3.combilicdn4.combilicdn5.combiligame.cobiligame.combiligame.net
+biligo.combilivideo.cnbilivideo.combilivideo.net	hdslb.com	hdslb.orgim9.commaoercdn.com
+mincdn.comyo9.com$ upos-hz-mirrorakam.akamaized.netbiji.com
 ddmogo.com
 igetget.cnigetget.comluojilab.com	mogoo.com
 sao.cnsaolife.comdmzj.com	douyu.comdouyu.tvdouyucdn.cndouyucdn2.cndouyuscdn.comdouyutv.comdtstatic.comduitang.comgamersky.com
-gcores.comgitv.cngitv.tvhuya.commsstatic.com	71.am	iqiyi.comiqiyipic.com
+gcores.comgitv.cngitv.tvhuya.commsstatic.com	71.amiq.com
+!cn	iqiyi.comiqiyipic.com
 pps.tv
 ppsimg.comqiyi.comqiyipic.com
 qy.net
@@ -10588,7 +10849,8 @@ hacpai.com	ld246.comkechuang.orgkc.kexinshe.com
 nga.cn178.com
 ngabbs.comngacn.ccsaraba1st.com
 52pojie.cnitsk.com
-klpbbs.com	mcbbs.net	fofa.infoitdog.cnwebmasterhome.cnkuaiduizuoye.comipip.net	ip138.comipplus360.com	feng1.comrongechain.comsf-airlines.comsf-cityrush.comsf-express.comsf-financial.comsf-saas.comsf-tech.com.cnsfcar.hksffix.cnsfgy.orgmcmod.cn
+klpbbs.com	mcbbs.net	fofa.infoitdog.cnwebmasterhome.cnkuaiduizuoye.comipip.netmyip.la
+!cn	ip138.comipplus360.com	feng1.comrongechain.comsf-airlines.comsf-cityrush.comsf-express.comsf-financial.comsf-saas.comsf-tech.com.cnsfcar.hksffix.cnsfgy.orgmcmod.cn
 moulem.com36dianping.com36kr.com36krcdn.com36krcnd.comcctv.cncctv.comcctvpic.comchinaepg.cnchinalive.comcitv.net.cncnms.net.cncntv.cncntv.com.cn
 cctvlib.cncctvlibrary.cncctvlib.com.cncctvlibrary.com.cn
 cctvpro.cncctvpro.com.cn	cntvwb.cngjgbdszt.cngjgbdszt.com.cngjgbdszt.net.cn	ipanda.cn
@@ -11031,7 +11293,7 @@ myhwcdn.cnmyhwcdn.commyhwcloudlive.commyhwclouds.compage
 !cn*na-mexico-1.myhuaweicloud.com
 !cn- ru-northwest-2.myhuaweicloud.com
 !cn*sa-brazil-1.myhuaweicloud.com
-!cncdnhwchcg02.comcdnhwcurq03.comcdnhwczba04.comcdnhwclxw05.comcdnhwcupf06.comcdnhwcxcy07.comcdnhwcatq08.comcdnhwcztu09.comcdnhwcedi10.comcdnhwcoem01.comcdnhwcllh11.comcdnhwcjog12.comcdnhwcpsd13.comcdnhwcqwg14.comcdnhwcqir15.comcdnhwcvix16.comcdnhwcajk17.comcdnhwcchh18.comcdnhwcohm19.comcdnhwczjt20.comcdnhwcggk22.comcdnhwczth23.comcdnhwctxz24.comcdnhwcgrb01.cncdnhwcyxb02.cncdnhwcywp03.cncdnhwclkl04.cncdnhwcjbj05.cncdnhwconz06.cncdnhwcgqa21.comcdnhwckbw08.cncdnhwcsjs09.cncdnhwcjkl10.cncdnhwctmz11.cncdnhwcrpp12.cncdnhwcpqh13.cncdnhwcxsi14.cncdnhwcfzp15.cncdnhwcgvs16.cncdnhwcrgg07.cncdnhwceft18.cncdnhwccvo19.cncdnhwcbvo20.cncdnhwcdkd21.cncdnhwcdvg22.cncdnhwclnh23.cncdnhwckfd24.cncdnhwczxh101.comcdnhwcbzj102.comcdnhwcjqv17.cncdnhwcljk104.comcdnhwclxu105.comcdnhwcbqs106.comcdnhwctnm107.comcdnhwcbni108.comcdnhwczks109.comcdnhwcick110.comcdnhwcead111.comcdnhwcjlg112.comcdnhwckon103.comcdnhwczmn114.comcdnhwcqgw115.comcdnhwckfz116.comcdnhwcqve117.comcdnhwcgnc118.comcdnhwcuim119.comcdnhwcjsb120.comcdnhwccmz121.comcdnhwcibv122.comcdnhwcprh113.comcdnhwcedt124.comcdnhwcofl101.cncdnhwclrd102.cncdnhwcurr103.cncdnhwczid104.cncdnhwcqvk105.cncdnhwczoy106.cncdnhwcuwd107.cncdnhwcogx108.cncdnhwcoph123.comcdnhwceod109.cncdnhwcpcw110.cncdnhwczic111.cncdnhwcozb112.cncdnhwcqrr114.cncdnhwcaoc115.cncdnhwctyd116.cncdnhwcidu117.cncdnhwclsl119.cncdnhwcsux118.cncdnhwcbie120.cncdnhwcuxc121.cncdnhwcaip122.cncdnhwcwqz113.cncdnhwcojn124.cncdnhwcscc123.cn#.+\.cdnhwc([1-9]|10)\.(cn|com)$+'.+\.cdnhwc[a-z]{3}[0-9]{2,3}\.(cn|com)$abhouses.comagconnect.link	dbank.comdbankcdn.comdbankcloud.comhicloud.comhihonor.comhonor.cn	huawei.cn
+!cncdnhwchcg02.comcdnhwcurq03.comcdnhwczba04.comcdnhwclxw05.comcdnhwcupf06.comcdnhwcxcy07.comcdnhwcatq08.comcdnhwcztu09.comcdnhwcedi10.comcdnhwcoem01.comcdnhwcllh11.comcdnhwcjog12.comcdnhwcpsd13.comcdnhwcqwg14.comcdnhwcqir15.comcdnhwcvix16.comcdnhwcajk17.comcdnhwcchh18.comcdnhwcohm19.comcdnhwczjt20.comcdnhwcggk22.comcdnhwczth23.comcdnhwctxz24.comcdnhwcgrb01.cncdnhwcyxb02.cncdnhwcywp03.cncdnhwclkl04.cncdnhwcjbj05.cncdnhwconz06.cncdnhwcgqa21.comcdnhwckbw08.cncdnhwcsjs09.cncdnhwcjkl10.cncdnhwctmz11.cncdnhwcrpp12.cncdnhwcpqh13.cncdnhwcxsi14.cncdnhwcfzp15.cncdnhwcgvs16.cncdnhwcrgg07.cncdnhwceft18.cncdnhwccvo19.cncdnhwcbvo20.cncdnhwcdkd21.cncdnhwcdvg22.cncdnhwclnh23.cncdnhwckfd24.cncdnhwczxh101.comcdnhwcbzj102.comcdnhwcjqv17.cncdnhwcljk104.comcdnhwclxu105.comcdnhwcbqs106.comcdnhwctnm107.comcdnhwcbni108.comcdnhwczks109.comcdnhwcick110.comcdnhwcead111.comcdnhwcjlg112.comcdnhwckon103.comcdnhwczmn114.comcdnhwcqgw115.comcdnhwckfz116.comcdnhwcqve117.comcdnhwcgnc118.comcdnhwcuim119.comcdnhwcjsb120.comcdnhwccmz121.comcdnhwcibv122.comcdnhwcprh113.comcdnhwcedt124.comcdnhwcofl101.cncdnhwclrd102.cncdnhwcurr103.cncdnhwczid104.cncdnhwcqvk105.cncdnhwczoy106.cncdnhwcuwd107.cncdnhwcogx108.cncdnhwcoph123.comcdnhwceod109.cncdnhwcpcw110.cncdnhwczic111.cncdnhwcozb112.cncdnhwcqrr114.cncdnhwcaoc115.cncdnhwctyd116.cncdnhwcidu117.cncdnhwclsl119.cncdnhwcsux118.cncdnhwcbie120.cncdnhwcuxc121.cncdnhwcaip122.cncdnhwcwqz113.cncdnhwcojn124.cncdnhwcscc123.cn#.+\.cdnhwc([1-9]|10)\.(cn|com)$abhouses.comagconnect.link	dbank.comdbankcdn.comdbankcloud.comhicloud.comhihonor.comhonor.cn	huawei.cn
 huawei.comhuawei.com.cnhuaweiacad.comhuaweiief.cnhuaweiief.comhuaweistatic.com	hwccpc.cn
 hwccpc.comhwht.cnhwocloud.com
 hwtrip.comshanhaitujian.com	vmall.comvmallres.comiflytek.com	xunfei.cn
@@ -11634,7 +11896,7 @@ golang.net
 golang.org
 1
 	GOODREADSgoodreads.comgr-assets.com
-±
+Ù¯
 GOOGLEandroid.comandroidify.comblogger.comblogblog.comblogspot.aeblogspot.alblogspot.amblogspot.bablogspot.beblogspot.bgblogspot.bjblogspot.cablogspot.cfblogspot.chblogspot.clblogspot.co.atblogspot.co.idblogspot.co.ilblogspot.co.keblogspot.co.nzblogspot.co.ukblogspot.co.zablogspot.comblogspot.com.arblogspot.com.aublogspot.com.brblogspot.com.byblogspot.com.coblogspot.com.cyblogspot.com.eeblogspot.com.egblogspot.com.esblogspot.com.mtblogspot.com.ngblogspot.com.trblogspot.com.uyblogspot.cvblogspot.czblogspot.deblogspot.dkblogspot.fiblogspot.frblogspot.grblogspot.hkblogspot.hrblogspot.hublogspot.ieblogspot.inblogspot.isblogspot.itblogspot.jpblogspot.krblogspot.liblogspot.ltblogspot.lublogspot.mdblogspot.mkblogspot.mxblogspot.myblogspot.nlblogspot.noblogspot.peblogspot.ptblogspot.qablogspot.reblogspot.roblogspot.rsblogspot.rublogspot.seblogspot.sgblogspot.siblogspot.skblogspot.snblogspot.tdblogspot.twblogspot.ugblogspot.vndart.devdartlang.orgdartpad.devfastlane.cifastlane.toolsflutter.devflutterapp.comgo-lang.comgo-lang.netgo-lang.org
 go.dev	godoc.org
 golang.com
@@ -11667,8 +11929,9 @@ golang.org2mdn.net
 ads
 urchin.com
 ads>1^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
-adscharlestonroadregistry.comregistry.googleget.appget.devget.howget.pageiam.soyxn--p8j9a0d9c9a.xn--q9jyb4cscholar.google.aescholar.google.atscholar.google.bescholar.google.bgscholar.google.cascholar.google.catscholar.google.chscholar.google.clscholar.google.cnscholar.google.co.crscholar.google.co.idscholar.google.co.ilscholar.google.co.inscholar.google.co.jpscholar.google.co.krscholar.google.co.nzscholar.google.co.thscholar.google.co.ukscholar.google.co.vescholar.google.co.zascholar.google.comscholar.google.com.arscholar.google.com.auscholar.google.com.boscholar.google.com.brscholar.google.com.coscholar.google.com.cuscholar.google.com.doscholar.google.com.ecscholar.google.com.egscholar.google.com.gtscholar.google.com.hkscholar.google.com.lyscholar.google.com.mxscholar.google.com.myscholar.google.com.nischolar.google.com.pascholar.google.com.pescholar.google.com.phscholar.google.com.pkscholar.google.com.prscholar.google.com.pyscholar.google.com.sgscholar.google.com.svscholar.google.com.trscholar.google.com.twscholar.google.com.uascholar.google.com.uyscholar.google.com.vnscholar.google.czscholar.google.descholar.google.dkscholar.google.esscholar.google.fischolar.google.frscholar.google.grscholar.google.hnscholar.google.hrscholar.google.huscholar.google.isscholar.google.itscholar.google.lischolar.google.ltscholar.google.luscholar.google.lvscholar.google.nlscholar.google.noscholar.google.plscholar.google.ptscholar.google.roscholar.google.ruscholar.google.sescholar.google.sischolar.google.skscholar.l.google.compki.googcrl.pki.goog
+adscharlestonroadregistry.comregistry.googleget.appget.devget.howget.pageiam.soyxn--p8j9a0d9c9a.xn--q9jyb4cscholar.google.aescholar.google.atscholar.google.bescholar.google.bgscholar.google.cascholar.google.catscholar.google.chscholar.google.clscholar.google.cnscholar.google.co.crscholar.google.co.idscholar.google.co.ilscholar.google.co.inscholar.google.co.jpscholar.google.co.krscholar.google.co.nzscholar.google.co.thscholar.google.co.ukscholar.google.co.vescholar.google.co.zascholar.google.comscholar.google.com.arscholar.google.com.auscholar.google.com.boscholar.google.com.brscholar.google.com.coscholar.google.com.cuscholar.google.com.doscholar.google.com.ecscholar.google.com.egscholar.google.com.gtscholar.google.com.hkscholar.google.com.lyscholar.google.com.mxscholar.google.com.myscholar.google.com.nischolar.google.com.pascholar.google.com.pescholar.google.com.phscholar.google.com.pkscholar.google.com.prscholar.google.com.pyscholar.google.com.sgscholar.google.com.svscholar.google.com.trscholar.google.com.twscholar.google.com.uascholar.google.com.uyscholar.google.com.vnscholar.google.czscholar.google.descholar.google.dkscholar.google.esscholar.google.fischolar.google.frscholar.google.grscholar.google.hnscholar.google.hrscholar.google.huscholar.google.isscholar.google.itscholar.google.lischolar.google.ltscholar.google.luscholar.google.lvscholar.google.nlscholar.google.noscholar.google.plscholar.google.ptscholar.google.roscholar.google.ruscholar.google.sescholar.google.sischolar.google.skscholar.l.google.compki.googclients1.google.compki.google.comcrl.pki.goog
 cnocsp.pki.goog
+cn!pki-goog.l.google.com
 cn
 kaggle.com	kaggle.iodeps.dev	deps.infoopensourceinsight.devopensourceinsights.devpolymer-project.orgpolymerproject.org
 v8.devv8project.orgyoutubeggpht.cn
@@ -11787,7 +12050,7 @@ gstatic.cn
 cngstatic.comgstaticcnapps.cn
 cn
 gsuite.com
-gv.comgvt0.comgvt1.comgvt2.comgvt3.comgvt5.comgvt6.comgvt7.comgvt9.comhdrplusdata.orghindiweb.comhowtogetmo.co.ukhtml5rocks.comhwgo.comiamremarkable.orgigoogle.comimpermium.com
+gv.comgvt0.comgvt1.comgvt2.comgvt3.comgvt5.comgvt6.comgvt7.comgvt9.comhaplorrhini.comhdrplusdata.orghindiweb.comhowtogetmo.co.ukhtml5rocks.comhwgo.comiamremarkable.orgigoogle.comimpermium.comitasoftware.com
 j2objc.orgjibemobile.comkeyhole.comkeytransparency.comkeytransparency.fookeytransparency.orglanternal.comlike.commadewithcode.commaterial.iomdialog.commeet.newmfg-inspector.commobileview.pagemoodstocks.comnear.bynest.comnomulus.foo
 oauthz.comon.hereon2.comonefifteen.netonefifteen.orgoneworldmanystories.comopenthread.ioopenweave.ioorbitera.com	page.linkpagespeedmobilizer.compageview.mobipanoramio.compartylikeits1986.orgpaxlicense.org
 picasa.compicasaweb.compicasaweb.netpicasaweb.org
@@ -11803,26 +12066,66 @@ webrtc.orgweltweitwachsen.dewhatbrowser.orgwidevine.comw
 cn265.com
 cn2mdn-cn.net
 cn2mdn.net
+cn!accounts.googlers.com
+cn$accounts.xn--9trs65b.com
+cn&accounts.xn--ggle-55da.com
 cnadmob-cn.com
+cn adservice.google.com
+cnai.ytimg.com
 cn"app-measurement-cn.com
 cnapp-measurement.com
+cnapps5.oingo.com
+cn#avail.googleflights.net
 cn beacons.gcp.gvt2.com
 cnbeacons.gvt2.com
 cnbeacons2.gvt2.com
 cnbeacons3.gvt2.com
+cn"borgmon.adz.google.com
 cnc.admob.com
+cn(c.android.clients.google.com
+cn, cache-management-prod.google.com
+cn!cache.pack.google.com
 cncheckin.gstatic.com
+cn clickserve.cc-dt.com
 cn%clickserve.dartsearch.net
+cn%clickserver.googleads.com
 cn)clientservices.googleapis.com
+cncn.widevine.com
+cn)cnappinstall.googleadapis.com
 cn)connectivitycheck.gstatic.com
+cn$content.googleadapis.com
+cncorp.google.com
+cncorp.googleapis.com
+cn0$crashlyticsreports-pa.googleapis.com
+cncsi.gstatic.com
 cndartsearch-cn.net
+cn$dg-meta.video.google.com
+cn"distribution.qatp1.net
+cn"distribution.qcpp1.net
+cn"distribution.qpdp1.net
+cndl.google.com
+cndl.l.google.com
 cndoubleclick-cn.net
 cndoubleclick.net
+cn$download.mlcc.google.com
+cndownload.qatp1.net
+cndownload.qcpp1.net
+cndownload.qpdp1.net
+cn*download.tensorflow.google.com
+cn+emmapplecodevice.googleapis.com
 cn-!firebase-settings.crashlytics.com
+cn&fontfiles.googleadapis.com
+cn$fontfiles.googleapis.com
+cn"fonts.googleadapis.com
 cn fonts.googleapis.com
 cnfonts.gstatic.com
+cng0.gstatic.com
 cng1.gstatic.com
 cng2.gstatic.com
+cng3.gstatic.com
+cngcpnode.com
+cngonglchuangl.net
+cngongyichuangyi.net
 cn#google-analytics-cn.com
 cn google-analytics.com
 cn#googleadservices-cn.com
@@ -11833,23 +12136,91 @@ webrtc.orgweltweitwachsen.dewhatbrowser.orgwidevine.comw
 cn googleflights-cn.net
 cn!googleoptimize-cn.com
 cngoogleoptimize.com
+cngoogleplex.com
 cn$googlesyndication-cn.com
 cn!googlesyndication.com
 cn#googletagmanager-cn.com
+cn googletagmanager.com
 cn$googletagservices-cn.com
 cn!googletagservices.com
 cn)googletraveladservices-cn.com
+cn&googletraveladservices.com
 cngooglevads-cn.com
+cngoto.google.com
+cngstatic-cn.com
+cn%gstaticadssl.l.google.com
+cngtm.oasisfeng.com
 cngvt1-cn.com
 cngvt2-cn.com
 cn!imasdk.googleapis.com
+cn monitoring.qatp1.net
+cn monitoring.qcpp1.net
+cn monitoring.qpdp1.net
+cn, pagead-googlehosted.l.google.com
+cn0$performanceparameters.googleapis.com
+cnplay.1ucrs.com
+cn'prod-controlbe.floonet.goog
+cn$prod-databe.floonet.goog
+cn$prod.databe.floonet.goog
+cnqagpublic.qatp1.net
+cnqagpublic.qcpp1.net
+cnqagpublic.qpdp1.net
+cnqgadmin.qatp1.net
+cnqgadmin.qcpp1.net
+cnqgadmin.qpdp1.net
+cn!qpx.googleflights.net
+cnqualysapi.qatp1.net
+cnqualysapi.qcpp1.net
+cnqualysapi.qpdp1.net
+cn!qualysguard.qatp1.net
+cn!qualysguard.qcpp1.net
+cn!qualysguard.qpdp1.net
 cnrecaptcha.net
+cnredirector.bdn.dev
+cn(redirector.c.chat.google.com
+cn(redirector.c.docs.google.com
+cn)redirector.c.drive.google.com
+cn(redirector.c.mail.google.com
+cn(redirector.c.pack.google.com
+cn(redirector.c.play.google.com
+cn-!redirector.c.youtubeeducation.com
+cn&redirector.gcpcdn.gvt1.com
 cnredirector.gvt1.com
+cn, redirector.offline-maps.gvt1.com
+cn$redirector.snap.gvt1.com
+cn*redirector.xn--ngstr-lra8j.com
 cn(regioninfo-pa.googleapis.com
 cn'safebrowsing.googleapis.com
+cn"scanservice1.qatp1.net
+cn"scanservice1.qcpp1.net
+cn"scanservice1.qpdp1.net
+cnservice.urchin.com
+cn$settings.xn--9trs65b.com
+cn-!ssl-google-analytics.l.google.com
 cnssl.gstatic.com
+cn*staging-controlbe.floonet.goog
+cn'staging-databe.floonet.goog
+cn0$staging-regioninfo-pa.googleapis.com
+cn'staging.databe.floonet.goog
+cnsupport.1ucrs.com
+cntac.googleapis.com
+cn%test.bugs-qa.chromium.org
+cn&test.gbugs-qa.chromium.org
+cntools.google.com
+cntools.l.google.com
+cnup.corp.goog
+cnup.gcp.googlers.com
+cn"update.crashlytics.com
 cn!update.googleapis.com
+cnwear.googleapis.com
+cn-!www-google-analytics.l.google.com
+cn-!www-googletagmanager.l.google.com
+cn"www.destinationurl.com
+cn www.googleadapis.com
 cnwww.gstatic.com
+cnwww.pxcc.com
+cnxn--9kr7l.com
+cnxn--flw351e.com
 cn
 ­
 
@@ -11886,9 +12257,10 @@ urchin.com
 GOOGLE-REGISTRYcharlestonroadregistry.comregistry.googleget.appget.devget.howget.pageiam.soyxn--p8j9a0d9c9a.xn--q9jyb4c
 ã
 GOOGLE-SCHOLARscholar.google.aescholar.google.atscholar.google.bescholar.google.bgscholar.google.cascholar.google.catscholar.google.chscholar.google.clscholar.google.cnscholar.google.co.crscholar.google.co.idscholar.google.co.ilscholar.google.co.inscholar.google.co.jpscholar.google.co.krscholar.google.co.nzscholar.google.co.thscholar.google.co.ukscholar.google.co.vescholar.google.co.zascholar.google.comscholar.google.com.arscholar.google.com.auscholar.google.com.boscholar.google.com.brscholar.google.com.coscholar.google.com.cuscholar.google.com.doscholar.google.com.ecscholar.google.com.egscholar.google.com.gtscholar.google.com.hkscholar.google.com.lyscholar.google.com.mxscholar.google.com.myscholar.google.com.nischolar.google.com.pascholar.google.com.pescholar.google.com.phscholar.google.com.pkscholar.google.com.prscholar.google.com.pyscholar.google.com.sgscholar.google.com.svscholar.google.com.trscholar.google.com.twscholar.google.com.uascholar.google.com.uyscholar.google.com.vnscholar.google.czscholar.google.descholar.google.dkscholar.google.esscholar.google.fischolar.google.frscholar.google.grscholar.google.hnscholar.google.hrscholar.google.huscholar.google.isscholar.google.itscholar.google.lischolar.google.ltscholar.google.luscholar.google.lvscholar.google.nlscholar.google.noscholar.google.plscholar.google.ptscholar.google.roscholar.google.ruscholar.google.sescholar.google.sischolar.google.skscholar.l.google.com
-Z
-GOOGLE-TRUST-SERVICESpki.googcrl.pki.goog
+ª
+GOOGLE-TRUST-SERVICESpki.googclients1.google.compki.google.comcrl.pki.goog
 cnocsp.pki.goog
+cn!pki-goog.l.google.com
 cn
 
 GRAVATARgravatar.com
@@ -12009,7 +12381,7 @@ hpstore.cn
 hpveer.comhpvirtualthin.comhpwallart.comhpwellnesscentral.com	hpwsn.comi-123-hp.cominkchoice.cominstantink.comleavinghpinc.comlife-global.orgmyhpsupport.comprinteron.comprintersetupsupport.comprintspots.comprintspots.netserviceshp.comthecompaqstore.comtouchsmartpc.comtouchsmartpc.nettouchsmartpc.orgworkstations.tvwww8-hp.comxn--6eup7j.comxn--6eup7j.nethpstore.corpmerchandise.com
 $
 HUANGHUAGANGhuanghuagang.org
-˜&
+ë%
 HUAWEI
 bisheng.cn
 cnbishengcompiler.cn
@@ -12050,7 +12422,7 @@ myhwcdn.cnmyhwcdn.commyhwcloudlive.commyhwclouds.compage
 !cn*na-mexico-1.myhuaweicloud.com
 !cn- ru-northwest-2.myhuaweicloud.com
 !cn*sa-brazil-1.myhuaweicloud.com
-!cncdnhwchcg02.comcdnhwcurq03.comcdnhwczba04.comcdnhwclxw05.comcdnhwcupf06.comcdnhwcxcy07.comcdnhwcatq08.comcdnhwcztu09.comcdnhwcedi10.comcdnhwcoem01.comcdnhwcllh11.comcdnhwcjog12.comcdnhwcpsd13.comcdnhwcqwg14.comcdnhwcqir15.comcdnhwcvix16.comcdnhwcajk17.comcdnhwcchh18.comcdnhwcohm19.comcdnhwczjt20.comcdnhwcggk22.comcdnhwczth23.comcdnhwctxz24.comcdnhwcgrb01.cncdnhwcyxb02.cncdnhwcywp03.cncdnhwclkl04.cncdnhwcjbj05.cncdnhwconz06.cncdnhwcgqa21.comcdnhwckbw08.cncdnhwcsjs09.cncdnhwcjkl10.cncdnhwctmz11.cncdnhwcrpp12.cncdnhwcpqh13.cncdnhwcxsi14.cncdnhwcfzp15.cncdnhwcgvs16.cncdnhwcrgg07.cncdnhwceft18.cncdnhwccvo19.cncdnhwcbvo20.cncdnhwcdkd21.cncdnhwcdvg22.cncdnhwclnh23.cncdnhwckfd24.cncdnhwczxh101.comcdnhwcbzj102.comcdnhwcjqv17.cncdnhwcljk104.comcdnhwclxu105.comcdnhwcbqs106.comcdnhwctnm107.comcdnhwcbni108.comcdnhwczks109.comcdnhwcick110.comcdnhwcead111.comcdnhwcjlg112.comcdnhwckon103.comcdnhwczmn114.comcdnhwcqgw115.comcdnhwckfz116.comcdnhwcqve117.comcdnhwcgnc118.comcdnhwcuim119.comcdnhwcjsb120.comcdnhwccmz121.comcdnhwcibv122.comcdnhwcprh113.comcdnhwcedt124.comcdnhwcofl101.cncdnhwclrd102.cncdnhwcurr103.cncdnhwczid104.cncdnhwcqvk105.cncdnhwczoy106.cncdnhwcuwd107.cncdnhwcogx108.cncdnhwcoph123.comcdnhwceod109.cncdnhwcpcw110.cncdnhwczic111.cncdnhwcozb112.cncdnhwcqrr114.cncdnhwcaoc115.cncdnhwctyd116.cncdnhwcidu117.cncdnhwclsl119.cncdnhwcsux118.cncdnhwcbie120.cncdnhwcuxc121.cncdnhwcaip122.cncdnhwcwqz113.cncdnhwcojn124.cncdnhwcscc123.cn#.+\.cdnhwc([1-9]|10)\.(cn|com)$+'.+\.cdnhwc[a-z]{3}[0-9]{2,3}\.(cn|com)$abhouses.comagconnect.link	dbank.comdbankcdn.comdbankcloud.comhicloud.comhihonor.comhonor.cn	huawei.cn
+!cncdnhwchcg02.comcdnhwcurq03.comcdnhwczba04.comcdnhwclxw05.comcdnhwcupf06.comcdnhwcxcy07.comcdnhwcatq08.comcdnhwcztu09.comcdnhwcedi10.comcdnhwcoem01.comcdnhwcllh11.comcdnhwcjog12.comcdnhwcpsd13.comcdnhwcqwg14.comcdnhwcqir15.comcdnhwcvix16.comcdnhwcajk17.comcdnhwcchh18.comcdnhwcohm19.comcdnhwczjt20.comcdnhwcggk22.comcdnhwczth23.comcdnhwctxz24.comcdnhwcgrb01.cncdnhwcyxb02.cncdnhwcywp03.cncdnhwclkl04.cncdnhwcjbj05.cncdnhwconz06.cncdnhwcgqa21.comcdnhwckbw08.cncdnhwcsjs09.cncdnhwcjkl10.cncdnhwctmz11.cncdnhwcrpp12.cncdnhwcpqh13.cncdnhwcxsi14.cncdnhwcfzp15.cncdnhwcgvs16.cncdnhwcrgg07.cncdnhwceft18.cncdnhwccvo19.cncdnhwcbvo20.cncdnhwcdkd21.cncdnhwcdvg22.cncdnhwclnh23.cncdnhwckfd24.cncdnhwczxh101.comcdnhwcbzj102.comcdnhwcjqv17.cncdnhwcljk104.comcdnhwclxu105.comcdnhwcbqs106.comcdnhwctnm107.comcdnhwcbni108.comcdnhwczks109.comcdnhwcick110.comcdnhwcead111.comcdnhwcjlg112.comcdnhwckon103.comcdnhwczmn114.comcdnhwcqgw115.comcdnhwckfz116.comcdnhwcqve117.comcdnhwcgnc118.comcdnhwcuim119.comcdnhwcjsb120.comcdnhwccmz121.comcdnhwcibv122.comcdnhwcprh113.comcdnhwcedt124.comcdnhwcofl101.cncdnhwclrd102.cncdnhwcurr103.cncdnhwczid104.cncdnhwcqvk105.cncdnhwczoy106.cncdnhwcuwd107.cncdnhwcogx108.cncdnhwcoph123.comcdnhwceod109.cncdnhwcpcw110.cncdnhwczic111.cncdnhwcozb112.cncdnhwcqrr114.cncdnhwcaoc115.cncdnhwctyd116.cncdnhwcidu117.cncdnhwclsl119.cncdnhwcsux118.cncdnhwcbie120.cncdnhwcuxc121.cncdnhwcaip122.cncdnhwcwqz113.cncdnhwcojn124.cncdnhwcscc123.cn#.+\.cdnhwc([1-9]|10)\.(cn|com)$abhouses.comagconnect.link	dbank.comdbankcdn.comdbankcloud.comhicloud.comhihonor.comhonor.cn	huawei.cn
 huawei.comhuawei.com.cnhuaweiacad.comhuaweiief.cnhuaweiief.comhuaweistatic.com	hwccpc.cn
 hwccpc.comhwht.cnhwocloud.com
 hwtrip.comshanhaitujian.com	vmall.comvmallres.com
@@ -12084,7 +12456,7 @@ gneec7.com
 cnteleows.com
 cnsaasops.tech
 cn
-³
+†
 HUAWEICLOUD	hc-cdn.cnhuaweicloud-dns.cnhuaweicloud-dns.com huaweicloud-dns.net
 !cn huaweicloud-dns.org
 !cnhuaweicloud-smn.cnhuaweicloud-smn.comhuaweicloud-smn.nethuaweicloud.comhuaweicloudapis.cnhuaweicloudapis.comhuaweicloudlive.comhuaweimarketplace.comhuaweisafedns.cnhuaweisafehub.cnhuaweiyun.cnhuaweiyun.comhwcdnsre.comhwclouds-dns.cnhwclouds-dns.comhwclouds-dns.nethwclouds.cnhwclouds.mobihwclouds.org.cnhwcloudvis.cnhwcloudvis.comimc-oneaccess.cnimcapptest.comkm6g.cnkm7g.cnkm8g.cnkm9g.cnlivehwc3.cnmyhuaweicloud.cn
@@ -12098,7 +12470,7 @@ myhwcdn.cnmyhwcdn.commyhwcloudlive.commyhwclouds.compage
 !cn*na-mexico-1.myhuaweicloud.com
 !cn- ru-northwest-2.myhuaweicloud.com
 !cn*sa-brazil-1.myhuaweicloud.com
-!cncdnhwchcg02.comcdnhwcurq03.comcdnhwczba04.comcdnhwclxw05.comcdnhwcupf06.comcdnhwcxcy07.comcdnhwcatq08.comcdnhwcztu09.comcdnhwcedi10.comcdnhwcoem01.comcdnhwcllh11.comcdnhwcjog12.comcdnhwcpsd13.comcdnhwcqwg14.comcdnhwcqir15.comcdnhwcvix16.comcdnhwcajk17.comcdnhwcchh18.comcdnhwcohm19.comcdnhwczjt20.comcdnhwcggk22.comcdnhwczth23.comcdnhwctxz24.comcdnhwcgrb01.cncdnhwcyxb02.cncdnhwcywp03.cncdnhwclkl04.cncdnhwcjbj05.cncdnhwconz06.cncdnhwcgqa21.comcdnhwckbw08.cncdnhwcsjs09.cncdnhwcjkl10.cncdnhwctmz11.cncdnhwcrpp12.cncdnhwcpqh13.cncdnhwcxsi14.cncdnhwcfzp15.cncdnhwcgvs16.cncdnhwcrgg07.cncdnhwceft18.cncdnhwccvo19.cncdnhwcbvo20.cncdnhwcdkd21.cncdnhwcdvg22.cncdnhwclnh23.cncdnhwckfd24.cncdnhwczxh101.comcdnhwcbzj102.comcdnhwcjqv17.cncdnhwcljk104.comcdnhwclxu105.comcdnhwcbqs106.comcdnhwctnm107.comcdnhwcbni108.comcdnhwczks109.comcdnhwcick110.comcdnhwcead111.comcdnhwcjlg112.comcdnhwckon103.comcdnhwczmn114.comcdnhwcqgw115.comcdnhwckfz116.comcdnhwcqve117.comcdnhwcgnc118.comcdnhwcuim119.comcdnhwcjsb120.comcdnhwccmz121.comcdnhwcibv122.comcdnhwcprh113.comcdnhwcedt124.comcdnhwcofl101.cncdnhwclrd102.cncdnhwcurr103.cncdnhwczid104.cncdnhwcqvk105.cncdnhwczoy106.cncdnhwcuwd107.cncdnhwcogx108.cncdnhwcoph123.comcdnhwceod109.cncdnhwcpcw110.cncdnhwczic111.cncdnhwcozb112.cncdnhwcqrr114.cncdnhwcaoc115.cncdnhwctyd116.cncdnhwcidu117.cncdnhwclsl119.cncdnhwcsux118.cncdnhwcbie120.cncdnhwcuxc121.cncdnhwcaip122.cncdnhwcwqz113.cncdnhwcojn124.cncdnhwcscc123.cn#.+\.cdnhwc([1-9]|10)\.(cn|com)$+'.+\.cdnhwc[a-z]{3}[0-9]{2,3}\.(cn|com)$
+!cncdnhwchcg02.comcdnhwcurq03.comcdnhwczba04.comcdnhwclxw05.comcdnhwcupf06.comcdnhwcxcy07.comcdnhwcatq08.comcdnhwcztu09.comcdnhwcedi10.comcdnhwcoem01.comcdnhwcllh11.comcdnhwcjog12.comcdnhwcpsd13.comcdnhwcqwg14.comcdnhwcqir15.comcdnhwcvix16.comcdnhwcajk17.comcdnhwcchh18.comcdnhwcohm19.comcdnhwczjt20.comcdnhwcggk22.comcdnhwczth23.comcdnhwctxz24.comcdnhwcgrb01.cncdnhwcyxb02.cncdnhwcywp03.cncdnhwclkl04.cncdnhwcjbj05.cncdnhwconz06.cncdnhwcgqa21.comcdnhwckbw08.cncdnhwcsjs09.cncdnhwcjkl10.cncdnhwctmz11.cncdnhwcrpp12.cncdnhwcpqh13.cncdnhwcxsi14.cncdnhwcfzp15.cncdnhwcgvs16.cncdnhwcrgg07.cncdnhwceft18.cncdnhwccvo19.cncdnhwcbvo20.cncdnhwcdkd21.cncdnhwcdvg22.cncdnhwclnh23.cncdnhwckfd24.cncdnhwczxh101.comcdnhwcbzj102.comcdnhwcjqv17.cncdnhwcljk104.comcdnhwclxu105.comcdnhwcbqs106.comcdnhwctnm107.comcdnhwcbni108.comcdnhwczks109.comcdnhwcick110.comcdnhwcead111.comcdnhwcjlg112.comcdnhwckon103.comcdnhwczmn114.comcdnhwcqgw115.comcdnhwckfz116.comcdnhwcqve117.comcdnhwcgnc118.comcdnhwcuim119.comcdnhwcjsb120.comcdnhwccmz121.comcdnhwcibv122.comcdnhwcprh113.comcdnhwcedt124.comcdnhwcofl101.cncdnhwclrd102.cncdnhwcurr103.cncdnhwczid104.cncdnhwcqvk105.cncdnhwczoy106.cncdnhwcuwd107.cncdnhwcogx108.cncdnhwcoph123.comcdnhwceod109.cncdnhwcpcw110.cncdnhwczic111.cncdnhwcozb112.cncdnhwcqrr114.cncdnhwcaoc115.cncdnhwctyd116.cncdnhwcidu117.cncdnhwclsl119.cncdnhwcsux118.cncdnhwcbie120.cncdnhwcuxc121.cncdnhwcaip122.cncdnhwcwqz113.cncdnhwcojn124.cncdnhwcscc123.cn#.+\.cdnhwc([1-9]|10)\.(cn|com)$
 "
 HUBBLEPHONEhubblephone.com
 µ
@@ -12258,10 +12630,12 @@ ospray.net
 ospray.org
 Z
 INTERCOMintercom.comintercom.iointercomassets.comintercomcdn.com
-
-IPIPipip.net
-¬
-IQIYI	71.am	iqiyi.comiqiyipic.com
+*
+IPIPipip.netmyip.la
+!cn
+Á
+IQIYI	71.amiq.com
+!cn	iqiyi.comiqiyipic.com
 pps.tv
 ppsimg.comqiyi.comqiyipic.com
 qy.net
@@ -12972,6 +13346,8 @@ mortein.cn
 ²
 MOVEFREEkeepmovingwithmovefree.commove-free.netmovefree.cn
 cnmovefrees.commovefreeoffers.commovefreerewards.comschiffvitamins.com
+*
+MOXINGmoxing.mobimoxing.news
 ­
 MOZILLAfirefox.comfirefoxusercontent.comdeveloper.mozilla.org($interactive-examples.mdn.mozilla.netmdn.mozillademos.orgmedia.prod.mdn.mozit.cloudrust-lang.org	rustup.rs	crates.iodocs.rsmozilla.commozilla.communitymozilla.netmozilla.orgextensionworkshop.combugzilla.orggetpocket.comseamonkey-project.orgthunderbird.net
 
